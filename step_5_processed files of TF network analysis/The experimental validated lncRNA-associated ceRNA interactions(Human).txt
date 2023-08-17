@@ -1,0 +1,1646 @@
+LncRNA name	MiRNA name	Gene name	Pubmed ID	Experimental method
+HULC	miR-372	PRKACB	20423907	Western blot;qRT-PCR;luciferase reporter assays;Chromatin immunoprecipitation assays
+BACE1-AS	miR-485-5p	BACE1	20507594	qRT-PCR;luciferase reporter assays
+HOTAIR	miR-331-3p	HER	24775712	Western blot;luciferase reporter assays
+MRAK088388	miR-29b-3p	N4bp2	24702795	qRT-PCR
+MRAK081523	let-7i	N4bp2	24702795	qRT-PCR
+lincRNA-ROR	miR-145	Oct4	23541921	Luciferase reporter assay
+lincRNA-ROR	miR-145	Nanog	23541921	Luciferase reporter assay
+lincRNA-ROR	miR-145	Sox2	23541921	Luciferase reporter assay
+lincRNA-ROR	miR-145	NA	24589415	qRT-PCR
+PTCSC3	miR-574-5p	PTCSC3	23599737	qRT-PCR
+linc-MD1	miR-133	MAML1	22000014	Northern blot;Western blot;qRT-PCR;luciferase reporter assays
+linc-MD1	miR-135	MAML1	22000014	Northern blot;Western blot;qRT-PCR;luciferase reporter assays
+linc-MD1	miR-133	MEF2C	22000014	Northern blot;Western blot;qRT-PCR;luciferase reporter assays
+linc-MD1	miR-135	MEF2C	22000014	Northern blot;Western blot;qRT-PCR;luciferase reporter assays
+AK020764	miR-142-3p	NA	19494298	qRT-PCR
+AK020764	miR-142-5p	NA	19494298	qRT-PCR
+H19	let-7a	Dicer	24055342	Western blot;qRT-PCR;luciferase reporter assays
+H19	let-7a	Hmga2	24055342	Western blot;qRT-PCR;luciferase reporter assays
+H19	let-7a	Igf1	24055342	Western blot;qRT-PCR;luciferase reporter assays
+H19	let-7a	Igf2	24055342	Western blot;qRT-PCR;luciferase reporter assays
+H19	let-7b	Dicer	24055342	Western blot;qRT-PCR;luciferase reporter assays
+H19	let-7b	Hmga2	24055342	Western blot;qRT-PCR;luciferase reporter assays
+H19	let-7b	Igf1	24055342	Western blot;qRT-PCR;luciferase reporter assays
+H19	let-7b	Igf2	24055342	Western blot;qRT-PCR;luciferase reporter assays
+H19	let-7a	Hmga2	24920070	siRNA transfection;qRT-PCR;Western blot
+H19	let-7b	Hmga2	24920070	siRNA transfection;qRT-PCR;Western blot
+H19	let-7c	Hmga2	24920070	siRNA transfection;qRT-PCR;Western blot
+H19	let-7e	Hmga2	24920070	siRNA transfection;qRT-PCR;Western blot
+H19	let-7i	Hmga2	24920070	siRNA transfection;qRT-PCR;Western blot
+GAS5	miR-21	NA	23933812	Western blot;qRT-PCR;RNA immunoprecipitation;luciferase reporter assays
+CARL	miR-539	PHB2	24710105	Western blot;qRT-PCR;luciferase reporter assays
+CHRF	miR-489	Myd88	24557880	Western blot;qRT-PCR;luciferase reporter assays
+lincRNA-p21	let-7a	JUNB	22841487	Western blot;qRT-PCR;luciferase reporter assays
+lincRNA-p21	let-7a	CTNNB1	22841487	Western blot;qRT-PCR;luciferase reporter assays
+lincRNA-p21	let-7b	JUNB	22841487	Western blot;qRT-PCR;luciferase reporter assays
+lincRNA-p21	let-7b	CTNNB1	22841487	Western blot;qRT-PCR;luciferase reporter assays
+lincRNA-p21	let-7c	JUNB	22841487	Western blot;qRT-PCR;luciferase reporter assays
+lincRNA-p21	let-7c	CTNNB1	22841487	Western blot;qRT-PCR;luciferase reporter assays
+lincRNA-p21	let-7e	JUNB	22841487	Western blot;qRT-PCR;luciferase reporter assays
+lincRNA-p21	let-7e	CTNNB1	22841487	Western blot;qRT-PCR;luciferase reporter assays
+MALAT1	miR-9	NA	23985560	Western blot;qRT-PCR;luciferase reporter assays;RNA immunoprecipitation
+HOTAIR	miR-130a	c-Myc	24953832	Western blot;qRT-PCR;luciferase reporter assays
+lincRNA-ROR	miR-205	ZEB1	24922071	Western blot;qRT-PCR;luciferase reporter assays
+lincRNA-ROR	miR-205	ZEB2	24922071	Western blot;qRT-PCR;luciferase reporter assays
+HOST2	let-7b	HMGA2	25292198	qRT-PCR
+HOST2	let-7b	C-MYC	25292198	qRT-PCR
+HOST2	let-7b	DICER	25292198	qRT-PCR
+HOST2	let-7b	IMP3	25292198	qRT-PCR
+Linc00974	miR-642	NA	25476897	Western blot;qRT-PCR;luciferase reporter assays;Immunohistochemical assay
+CASC2	miR-21	NA	25446261	qRT-PCR
+H19	miR-141	ZEB1	26160158	Luciferase reporter assay;qRT-PCR
+H19	miR-138	ZEB1	26068968	RNA immunoprecipitation; luciferase reporter assays
+H19	miR-138	ZEB2	26068968	RNA immunoprecipitation; luciferase reporter assays
+H19	miR-138	Vimentin	26068968	RNA immunoprecipitation; luciferase reporter assays
+H19	miR-200a	ZEB1	26068968	RNA immunoprecipitation; luciferase reporter assays
+H19	miR-200a	ZEB2	26068968	RNA immunoprecipitation; luciferase reporter assays
+H19	miR-200a	Vimentin	26068968	RNA immunoprecipitation; luciferase reporter assays
+HOTAIR	miR-218	BMI1	26024833	RNA immunoprecipitation; luciferase reporter assays
+MIAT	miR-150-5p	VEGF	25587098	luciferase reporter assays, RNA immunoprecipitation
+CCAT2	miR-424	NA	28550684	luciferase reporter assays;qRT-PCR
+MEG3	miR-9	FOXO1	28539329	luciferase reporter assays;qRT-PCR;Northern blot assay;Western blot assay
+MEG3	miR-9	E-cadherin	28539329	luciferase reporter assays;qRT-PCR;Northern blot assay;Western blot assay
+PVT1	miR-203a	E2F3	28510638	luciferase reporter assays;qRT-PCR;Western blot assay
+XLOC_008466	miR-874	MMP2	28501870	luciferase reporter assays;qRT-PCR;
+XLOC_008466	miR-874	XIAP	28501870	luciferase reporter assays;qRT-PCR;
+MALAT1	miR-146b-5p	TRAF6	28404923	luciferase reporter assays;qRT-PCR;Northern blot assay;Northern blot assay
+LINC00668	miR-297	VEGFA	28564590	luciferase reporter assays;qRT-PCR;Western blot assay
+CASC2	miR-21	PTEN	28495512	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTAIR 	miR-217	HIF1A	28492542	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTAIR 	miR-217	AXL	28492542	luciferase reporter assays;qRT-PCR;Western blot assay
+CCR492	let-7	c-Myc	27344374	luciferase reporter assays;qRT-PCR;Western blot assay
+n340790	miR-1254	NA	28559970	luciferase reporter assays;qRT-PCR;Western blot assay
+HOXA11-AS	miR-124-3p	ROCK1	28558357	luciferase reporter assays;qRT-PCR;Western blot assay
+ANRIL	miR-186	NA	28550682	luciferase reporter assays;qRT-PCR
+UCA1	miR-122	NA	28548636	luciferase reporter assays;qRT-PCR
+NEAT1	miR-34a	c-Met	28545036	qRT-PCR;Western blot assay
+UCA1	miR-16	MDR1	27854515	qRT-PCR;Western blot assay
+UCA1	miR-16	GLS2	26373319	luciferase reporter assays;qRT-PCR;Western blot assay
+HOXA-AS2	miR-520c-3p	TGFBR2	28545023	luciferase reporter assays;qRT-PCR;Western blot assay
+HOXA-AS2	miR-520c-3p	TGFBR2	28545023	luciferase reporter assays;qRT-PCR;Western blot assay
+H19	miR-152	DNMT1	28544374	luciferase reporter assays;qRT-PCR;Western blot assay
+MALAT1	miR-143-3p	ZEB1	28543721	luciferase reporter assays;qRT-PCR
+AF113014	miR-20a	EGR2	28542387	luciferase reporter assays;qRT-PCR
+N-BLR	miR-141-3p	ZEB1	28535802	luciferase reporter assays;qRT-PCR
+N-BLR	miR-200c-3p	ZEB1	28535802	luciferase reporter assays;qRT-PCR
+MALAT1	miR-145	TGFB1	28535533	luciferase reporter assays;qRT-PCR;Western blot assay
+MALAT1	miR-145	TGFBR2	28535533	luciferase reporter assays;qRT-PCR;Western blot assay
+MALAT1	miR-145	SMAD3	28535533	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTTIP	miR-30b	HOXA13	28534516	luciferase reporter assays;qRT-PCR;Western blot assay
+n336694	miR-106b	NA	28528185	qRT-PCR;Western blot assay
+LAMC1	miR-124	CD151	28524360	qRT-PCR;Western blot assay
+MALAT1	miR-204	SMAD4	28522163	luciferase reporter assays;qRT-PCR; RNA pull-down assay
+PVT1	miR-488-3p	NA	28520497	luciferase reporter assays;qRT-PCR;MS2 RNA immunoprecipitation
+GAS5	miR-221	ARHI 	28519068	luciferase reporter assays;qRT-PCR;Western blot
+lincRNA-ROR	miR-145	Oct4	28516515	luciferase reporter assays;qRT-PCR;Western blot
+lincRNA-ROR	miR-145	Sox2	28516515	luciferase reporter assays;qRT-PCR;Western blot
+PTCSC3	miR-574-5p	SCAI	28513866	luciferase reporter assays;qRT-PCR;Western blot
+TUG1	miR-142	ZEB2	28503069	luciferase reporter assays;qRT-PCR;Western blot
+AC023115.3	miR-26a	GSK3B	28499919	qRT-PCR;Western blot
+UCC	miR-143	KRAS	28492554	luciferase reporter assays;qRT-PCR
+UCC	miR-143	IGF1R	28492554	luciferase reporter assays;qRT-PCR
+UCC	miR-143	BCL2	28492554	luciferase reporter assays;qRT-PCR
+UCC	miR-143	HK2	28492554	luciferase reporter assays;qRT-PCR
+CRNDE	miR-136	E2F1	28115855	luciferase reporter assays;Western blot assay
+TUSC7	miR-211-3p	NA	28214867	luciferase reporter assays;qRT-PCR;Western blot assay
+XIST	miR-181a	PTEN	28388883	luciferase reporter assays;qRT-PCR;Western blot assay
+PVT1	miR-186	HIF1A	28122299	luciferase reporter assays;qRT-PCR;Western blot assay
+PVT1	miR-186	PCNA	28122299	luciferase reporter assays;qRT-PCR;Western blot assay
+FBXL19-AS1	miR-203	NA	28479250	luciferase reporter assays;qRT-PCR
+CCAT1	miR-181b	FGFR3	28475287	luciferase reporter assays;qRT-PCR;Western blot assay
+CCAT1	miR-181b	PDGFRA	28475287	luciferase reporter assays;qRT-PCR;Western blot assay
+SNHG1	miR-338-3p	CST3	28423738	luciferase reporter assays;qRT-PCR
+linc-NeD125	miR-19a-3p	CDK6	28415684	luciferase reporter assays;qRT-PCR
+linc-NeD125	miR-19a-3p	MYCN	28415684	luciferase reporter assays;qRT-PCR
+linc-NeD125	miR-19a-3p	SNCAIP	28415684	luciferase reporter assays;qRT-PCR
+linc-NeD125	miR-19a-3p	KDM6A	28415684	luciferase reporter assays;qRT-PCR
+linc-NeD125	miR-19b-3p	CDK6	28415684	luciferase reporter assays;qRT-PCR
+linc-NeD125	miR-19b-3p	MYCN	28415684	luciferase reporter assays;qRT-PCR
+linc-NeD125	miR-19b-3p	SNCAIP	28415684	luciferase reporter assays;qRT-PCR
+linc-NeD125	miR-19b-3p	KDM6A	28415684	luciferase reporter assays;qRT-PCR
+linc-NeD125	miR-106a-5p	CDK6	28415684	luciferase reporter assays;qRT-PCR
+linc-NeD125	miR-106a-5p	MYCN	28415684	luciferase reporter assays;qRT-PCR
+linc-NeD125	miR-106a-5p	SNCAIP	28415684	luciferase reporter assays;qRT-PCR
+linc-NeD125	miR-106a-5p	KDM6A	28415684	luciferase reporter assays;qRT-PCR
+CCAT1	miR-33a	NA	28409554	luciferase reporter assays;qRT-PCR
+SNHG1	miR-199a-3p	CDK7	28400279	luciferase reporter assays;qRT-PCR;Western blot assay
+TP73-AS1	miR-142	HMGB1	28379612	luciferase reporter assays;qRT-PCR;Western blot assay
+TP73-AS1	miR-142	RAGE	28379612	luciferase reporter assays;qRT-PCR;Western blot assay
+MALAT1	miR-142-3p	HMGB1	28346809	luciferase reporter assays;qRT-PCR
+MALAT1	miR-129-5p	HMGB1	28346809	luciferase reporter assays;qRT-PCR
+UCA1	miR-204	ATF2	28337266	luciferase reporter assays;qRT-PCR;Western blot assay
+LOC100129148	miR-539-5p	KLF12	28328537	luciferase reporter assays;qRT-PCR;Western blot assay
+H19	miR-181d	b-catenin	28327666	luciferase reporter assays;qRT-PCR
+BX649188.1	kshv-miR-K12-7-3p	NA	28323040	luciferase reporter assays;qRT-PCR
+MEG3	miR-133a-3p	SLC39A1	28320084	qRT-PCR
+HOTAIR	miR-19	PTEN	28316060	qRT-PCR
+TUG1	miR-186	CPEB2	28302487	luciferase reporter assays;qRT-PCR;Western blot assay
+LncRNA-ATB	miR-200a	b-catenin	28302418	luciferase reporter assays;qRT-PCR
+lncRNA-MODR	miR-454	RUNX2	28301382	qRT-PCR;Western blot
+XIST	miR-133a	EGFR	28295543	luciferase reporter assays;qRT-PCR
+Lnc-mg	miR-125b	IGF2	28281528	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTAIRM1	miR-3960	HOXA1	28280365	qRT-PCR
+CRNDE	miR-451	NA	28276319	luciferase reporter assays;qRT-PCR;Western blot assay
+MEG3	miR-19a	PTEN	28276316	luciferase reporter assays;qRT-PCR;Western blot assay
+PVT1	miR-424	NA	28276314	luciferase reporter assays;qRT-PCR
+PVT1	miR-152	CD151	28258379	luciferase reporter assays;qRT-PCR;Western blot assay
+PVT1	miR-152	FGF2	28258379	luciferase reporter assays;qRT-PCR;Western blot assay
+lincRNA-ROR	miR-145	ARF6 	25253741	luciferase reporter assays;qRT-PCR;Western blot assay
+CASC2	miR-101	CPEB1	28252647	luciferase reporter assays;qRT-PCR;Western blot assay
+SNHG16	miR-98	E2F5	28232182	luciferase reporter assays;qRT-PCR;Western blot assay;RNA immunoprecipitation
+RPPH1	miR-330-5p	CDC42	28223918	luciferase reporter assays;qRT-PCR;Western blot assay
+RPPH1	miR-326-3p	CDC42	28223918	luciferase reporter assays;qRT-PCR;Western blot assay
+TUG1	miR-335-5p	ROCK1	28205334	luciferase reporter assays;qRT-PCR;Western blot assay
+STX12	miR-148a	SMAD5	28202235	qRT-PCR;Western blot assay
+Lnc-MKI67IP-3	let-7e	IKBB	28195197	qRT-PCR;Western blot assay
+PVT1	miR-200b	NA	28187158	short and long RNA-seq
+PVT1	miR-200c	NA	28187158	short and long RNA-seq
+PVT1	miR-429	NA	28187158	short and long RNA-seq
+TCONS_147426	miR-200b	NA	28187158	short and long RNA-seq
+TCONS_147426	miR-200c	NA	28187158	short and long RNA-seq
+TCONS_147426	miR-429	NA	28187158	short and long RNA-seq
+MALAT1	miR-203	TYMS	28187000	luciferase reporter assays;qRT-PCR;Western blot assay
+NEAT1	miR-181d-5p	SOX5	28185956	luciferase reporter assays;qRT-PCR;Western blot assay
+ENST00000535511	miR-133b	UBD	28177879	qRT-PCR
+LINC00858	miR-422a	KLK4	28177876	luciferase reporter assays;qRT-PCR;Western blot assay
+MEG3	miR-214	NA	28175963	qRT-PCR
+HULC	miR-6825-5p	USP22	28166203	luciferase reporter assays;qRT-PCR;Western blot assay
+HULC	miR-6845-5p	USP22	28166203	luciferase reporter assays;qRT-PCR;Western blot assay
+HULC	miR-6886-3p	USP22	28166203	luciferase reporter assays;qRT-PCR;Western blot assay
+HULC	miR-6825-5p	Sirt1	28166203	luciferase reporter assays;qRT-PCR;Western blot assay
+HULC	miR-6845-5p	Sirt1	28166203	luciferase reporter assays;qRT-PCR;Western blot assay
+HULC	miR-6886-3p	Sirt1	28166203	luciferase reporter assays;qRT-PCR;Western blot assay
+PlncRNA1	miR-34c	MAZ	28153728	qRT-PCR;Western blot assay
+PlncRNA1	miR-34c	ZO-1	28153728	qRT-PCR;Western blot assay
+PlncRNA1	miR-34c	OCEL1	28153728	qRT-PCR;Western blot assay
+MALAT1	miR-101	NA	28150831	qRT-PCR
+MALAT1	miR-217	NA	28150831	qRT-PCR
+MALAT1	miR-202	Gli2	27887846	luciferase reporter assays;qRT-PCR;Western blot assay;RNA immunoprecipitation
+H19	miR-200a	ZEB1	27008415	luciferase reporter assays;qRT-PCR
+H19	miR-200a	ZEB2	27008415	luciferase reporter assays;qRT-PCR
+H19	miR-200b	ZEB1	27008415	luciferase reporter assays;qRT-PCR
+H19	miR-200b	ZEB2	27008415	luciferase reporter assays;qRT-PCR
+H19	miR-200c	ZEB1	27008415	luciferase reporter assays;qRT-PCR
+H19	miR-200c	ZEB2	27008415	luciferase reporter assays;qRT-PCR
+UCA1	miR-182	iASPP	28137422	luciferase reporter assays
+MHENCR	miR-425	IGF1	28123636	qRT-PCR;Western blot assay
+MHENCR	miR-425	SPIN1	28123636	qRT-PCR;Western blot assay
+MHENCR	miR-489	IGF1	28123636	qRT-PCR;Western blot assay
+MHENCR	miR-489	SPIN1	28123636	qRT-PCR;Western blot assay
+HOTAIR	miR-34a	Sox2	28122024	qRT-PCR
+GAS5	miR-135b	NA	28117028	luciferase reporter assays;qRT-PCR
+MTDH	miR-130b	PTEN	28107197	qRT-PCR;Western blot assay
+MTDH	miR-130b	PPP2CA	28107197	qRT-PCR;Western blot assay
+MTDH	miR-130b	SMAD7	28107197	qRT-PCR;Western blot assay
+H19	let-7	LIN28	28102845	luciferase reporter assays
+CRNDE	miR-181a-5p	TCF4	28086904	luciferase reporter assays;qRT-PCR;Western blot assay
+CRNDE	miR-181a-5p	Wnt/b-catenin 	28086904	luciferase reporter assays;qRT-PCR;Western blot assay
+LINC00152	miR-138	HIF1A	28077595	luciferase reporter assays;qRT-PCR;Western blot assay
+ZEB1-AS1	miR-200a	ZEB1	28075045	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+ZEB1-AS1	miR-200b	ZEB1	28075045	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+ZEB1-AS1	miR-200c	ZEB1	28075045	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+ZEB1-AS1	miR-141	ZEB1	28075045	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+ZEB1-AS1	miR-429	ZEB1	28075045	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+SNHG12	miR-199a-5p	MLK3	28073380	luciferase reporter assays;qRT-PCR;Western blot assay,ChIRP assay
+SNHG12	miR-199b-5p	MLK3	28073380	luciferase reporter assays;qRT-PCR;Western blot assay,ChIRP assay
+MALAT1	miR-218	EZH2	28069878	qRT-PCR;Western blot assay
+XIST	miR-144	Titin	28059474	luciferase reporter assays
+TUG1	miR-9	MTHFD2	28053623	luciferase reporter assays
+SPRY4-IT1	miR-101-3p	EZH2	27998761	luciferase reporter assays;qRT-PCR;Western blot assay
+TUG1	miR-145-5p	NA	27983921	luciferase reporter assays
+H19	miR-675	NA	27981546	qRT-PCR
+MALAT1	miR-183	ITGB1	27966454	qRT-PCR;Western blot assay
+XIST 	miR-497	MACC1	27911852	luciferase reporter assays;qRT-PCR;Western blot assay
+RMRP	miR-206	KRAS	27906963	qRT-PCR;Western blot assay
+RMRP	miR-206	FMNL2	27906963	qRT-PCR;Western blot assay
+RMRP	miR-206	SOX9	27906963	qRT-PCR;Western blot assay
+MALAT1	miR-155	FBXW7	27904771	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTAIR	miR-1	NA	27895772	luciferase reporter assays;qRT-PCR
+H19	miR-29b-3p	TGFB1	27895107	luciferase reporter assays;qRT-PCR;Western blot assay
+MARCH5	miR-30a	SMAD2	27875077	qRT-PCR;Western blot assay
+MARCH5	miR-30a	ATG5	27875077	qRT-PCR;Western blot assay
+SNHG5	miR-32	KLF4	27871067	luciferase reporter assays;qRT-PCR;Western blot assay
+AF147447	miR-34c	MUC2	27835575	luciferase reporter assays;qRT-PCR;Western blot assay
+GAS5	miR-23a	MT2A	27827524	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTAIR	miR-1	CCND1	27816685	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTAIR	miR-1	CCND1	27816685	luciferase reporter assays;qRT-PCR;Western blot assay
+EWSAT1	miR-326	CCND1	27816050	luciferase reporter assays;qRT-PCR;Western blot assay
+EWSAT1	miR-330-5p	CCND1	27816050	luciferase reporter assays;qRT-PCR;Western blot assay
+H19	let-7	StAR	27813675	luciferase reporter assays;qRT-PCR;Western blot assay
+PVT1	miR-195	BCL2	27813492	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+PVT1	miR-195	CCND1	27813492	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+PVT1	miR-195	FASN	27813492	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+GAS5	miR-2467-5p	NODAL	27811843	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+GAS5	miR-3200-3p	NODAL	27811843	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+GAS5	let-7a	NODAL	27811843	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+GAS5	let-7e-5p	NODAL	27811843	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+H19	let-7a	IL6	27809873	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+H19	let-7b	IL6	27809873	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+HULC	miR-372	IL6	27809873	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+HULC	miR-373	IL6	27809873	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+H19	let-7a	CXCR4	27809873	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+H19	let-7b	CXCR4	27809873	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+HULC	miR-372	CXCR4	27809873	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+HULC	miR-373	CXCR4	27809873	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+HOXA11-AS	miR-1297	E2F1	27651312	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+SOX2OT	miR-375	NA	27800139	qRT-PCR
+PVT1	miR-146a	NA	27794184	qRT-PCR
+MALAT1	miR-200c	TGFB	27693631	MG-63 and U2OS
+LINC00161	miR-645	IFIT2	27609068	luciferase reporter assays;qRT-PCR
+Unigene56159	miR-140-5p	Slug	27597739	qRT-PCR;Western blot assay;Fluorescent reporter assays
+RMRP	miR-206	CCND2	27192121	qRT-PCR
+MALAT1	miR-206	ANXA2	27191262	luciferase reporter assays;qRT-PCR;Western blot assay
+MALAT1	miR-206	KRAS	27191262	luciferase reporter assays;qRT-PCR;Western blot assay
+PCA3	miR-1261	PRKD3	27743381	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTAIRM1	miR-20a	ULK1	27740626	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTAIRM1	miR-106b	E2F1	27740626	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTAIRM1	miR-125b	DRAM2	27740626	luciferase reporter assays;qRT-PCR;Western blot assay
+H19	miR-342-3p	FOXM1	27716361	luciferase reporter assays;qRT-PCR;Western blot assay
+MALAT1	miR-375	NA	27658300	luciferase reporter assays;qRT-PCR;Western blot assay
+MIAT	miR-150	ANP	27649667	qRT-PCR
+MIAT	miR-150	BNP	27649667	qRT-PCR
+MIAT	miR-150	b-MHC	27649667	qRT-PCR
+MEG3	miR-181b	ALOX15	27642276	luciferase reporter assays;qRT-PCR;Western blot assay
+MEG3	miR-181b	ALOX12	27642276	luciferase reporter assays;qRT-PCR;Western blot assay
+XIST	miR-101	EZH2	27620004	luciferase reporter assays;qRT-PCR;Western blot assay
+lncRpa	miR-671	caspase8	27604105	luciferase reporter assays;qRT-PCR;Western blot assay
+lncRpa	miR-671	p38	27604105	luciferase reporter assays;qRT-PCR;Western blot assay
+lncMD	miR-125b	IGF2	27589905	RACE,luciferase reporter assays
+HOTAIR	miR-214	PIK3R3	26826873	qRT-PCR;Western blot assay
+MALAT1	miR-101b	Rac1	26697839	luciferase reporter assays;qRT-PCR
+PVT1	miR-152	PTCH1	27588491	luciferase reporter assays;qRT-PCR;Western blot assay
+RBM24	miR-143	MIR143HG	27565737	luciferase reporter assays;qRT-PCR;Western blot assay
+MIR143HG	miR-143	RBM24	27565737	luciferase reporter assays;qRT-PCR;Western blot assay
+MALAT1	miR-22	MMP14	27564100	luciferase reporter assays;qRT-PCR;Western blot assay
+MALAT1	miR-22	Snail	27564100	luciferase reporter assays;qRT-PCR;Western blot assay
+H19	miR-29a	VASH2	27543358	luciferase reporter assays;qRT-PCR;Western blot assay
+SNHG6-003	miR-26a	TAK1	27530352	luciferase reporter assays;qRT-PCR;Western blot assay;tissue micorarray
+linc-223	miR-125-5p	IRF4	27517498	luciferase reporter assays;qRT-PCR
+lncRNA-POIR	miR-182	FoxO1	27512949	luciferase reporter assays;qRT-PCR;Western blot assay
+Cdr1as	miR-7a	PARP	26998750	luciferase reporter assays;qRT-PCR;Western blot assay
+Cdr1as	miR-7a	SP1	26998750	luciferase reporter assays;qRT-PCR;Western blot assay
+RSU1P2	let-7a	IGF1R	27487126	EGFP reporter assay;qRT-PCR;Western blot assay
+RSU1P2	let-7a	N-myc	27487126	EGFP reporter assay;qRT-PCR;Western blot assay
+RSU1P2	let-7a	EphA4	27487126	EGFP reporter assay;qRT-PCR;Western blot assay
+MALAT1	miR-122	IGF1R	27486823	qRT-PCR;Western blot assay
+lncRNA-MSR	miR-152	TMSB4	27469625	luciferase reporter assays;qRT-PCR;Northern blot assay;Western blot assay
+Lnc-Ang362	miR-221	NA	23697773	siRNA knockdown,RNA sequencing
+Lnc-Ang362	miR-222	NA	23697773	siRNA knockdown,RNA sequencing
+HOTARI	miR-148b-3p	PRC2	27446363	luciferase reporter assays;qRT-PCR
+MALAT1	miR-363-3p	MCL1	27420766	luciferase reporter assays;qRT-PCR
+SNHG16	NA	SCD	27396952	AGO-CLIP;qRT-PCR
+LINC00324	miR-615-5p	BTG2	27373735	qRT-PCR;RNA immunoprecipitation
+LINC00324	miR-615-5p	ADCYAP1R1	27373735	qRT-PCR;RNA immunoprecipitation
+LINC00324	miR-4281	NA	27373735	qRT-PCR;RNA immunoprecipitation
+LOC400043	miR-28-3p	NA	27373735	qRT-PCR;RNA immunoprecipitation
+LOC400043	miR-96-5p	NA	27373735	qRT-PCR;RNA immunoprecipitation
+CA9	miR-34a	JAGGED1	26553365	luciferase reporter assays;qRT-PCR
+CA9	miR-34a	NOTCH3	26553365	luciferase reporter assays;qRT-PCR
+H19	miR-29a-3p	DNMT3B	27363013	microarray;qRT-PCR
+H19	miR-29a-3p	VEGFA	27363013	microarray;qRT-PCR
+H19	miR-29a-3p	ITGB1	27363013	microarray;qRT-PCR
+NEAT1	miR-377-3p	E2F3	27351135	luciferase reporter assays;qRT-PCR;Western blot assay
+LncRNA-ATB	miR-200a	TGFB2	27267902	luciferase reporter assays;qRT-PCR;RNA immunoprecipitation
+HULC	miR-200a-3p	ZEB1	27285757	qRT-PCR;RNA immunoprecipitation;Western blot assay
+LncRNA-NRF	miR-873	RIPK1	27258785	luciferase reporter assays;qRT-PCR
+LncRNA-NRF	miR-873	RIPK3	27258785	luciferase reporter assays;qRT-PCR
+lncRNA-RNCR3	miR-185-5p	KLF2	27253412	qRT-PCR
+LINC00673	miR-1231	PTPN11	27213290	luciferase reporter assays;qRT-PCR;Western blot assay
+H19	miR-141	NA	27186302	luciferase reporter assays;qRT-PCR;Western blot assay
+MEG3	miR-1297	PTEN	27158395	qRT-PCR;Western blot assay
+NEAT1	miR-548ar-3p	FUS	27147820	qRT-PCR;RNA immunoprecipitation
+HOTAIR	miR-141	SKA2	27121316	luciferase reporter assays;qRT-PCR;Western blot assay
+H19	miR-17-5p	YES1	27093644	qRT-PCR;Western blot assay
+H19	miR-630	EZH2	27040767	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTAIR	miR-1	MAPK1	26117268	qRT-PCR;Western blot assay
+HOTAIR	miR-214-3p	MAPK1	26117268	qRT-PCR;Western blot assay
+HOTAIR	miR-330-5p	MAPK1	26117268	qRT-PCR;Western blot assay
+H19	miR-874	AQP3	27059301	luciferase reporter assays;qRT-PCR;Western blot assay
+HNF1A-AS1	miR-30b-5p	BCL2	27084450	qRT-PCR;Western blot assay
+HNF1A-AS1	miR-30b-5p	ATG5	27084450	qRT-PCR;Western blot assay
+GAS5	miR-21	PTEN	27034004	qRT-PCR;Western blot assay
+Ftx	miR-545	RIG-I	26992218	luciferase reporter assays;qRT-PCR;Western blot assay
+FER1L4	miR-106a-5p	NA	26224446	qRT-PCR
+MIAT	miR-150-5p	HLEC	26818536	microarray,Immunofluoresence assay
+ESAT-6	miR-155	SOCS1	25721573	qRT-PCR;Western blot assay
+MIR31HG	miR-193b	CCND1	26549028	luciferase reporter assays;qRT-PCR
+MIR31HG	miR-193b	MCL1	26549028	luciferase reporter assays;qRT-PCR
+MIR31HG	miR-193b	NT5E	26549028	luciferase reporter assays;qRT-PCR
+MIR31HG	miR-193b	KRAS	26549028	luciferase reporter assays;qRT-PCR
+MIR31HG	miR-193b	uPA	26549028	luciferase reporter assays;qRT-PCR
+MIR31HG	miR-193b	ETS1	26549028	luciferase reporter assays;qRT-PCR
+MIR31HG	miR-193b	ACTB	26549028	luciferase reporter assays;qRT-PCR
+BC032469	miR-1207-5p	hTERT	26549025	luciferase reporter assays;qRT-PCR
+miR-183 sponge	miR-183	RAB21	25394902	luciferase reporter assays;qRT-PCR;Western blot assay
+lincRNA-ROR	miR-145	Nanog	26636540	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+TGFB2-OT1	miR-3960	CERS1	26565952	luciferase reporter assays;qRT-PCR;Western blot assay
+TGFB2-OT1	miR-4488	NAT8L	26565952	luciferase reporter assays;qRT-PCR;Western blot assay
+TGFB2-OT1	miR-4459	LARP1	26565952	luciferase reporter assays;qRT-PCR;Western blot assay
+GAS5	miR-222	p27	26446789	luciferase reporter assays;qRT-PCR;Western blot assay
+MALAT1	miR-145	NA	26311052	luciferase reporter assays;qRT-PCR;Western blot assay;Northern blot assay
+FER1L4	miR-106a-5p	PTEN	26306906	qRT-PCR;Western blot assay
+MEG3	miR-181a	BCL2	26253106	luciferase reporter assays;qRT-PCR
+lincRNA-ROR	let-7i-5p	NA	28580169	qRT-PCR
+lincRNA-ROR	let-7b-5p	NA	28580169	qRT-PCR
+lincRNA-ROR	let-7e-5p	NA	28580169	qRT-PCR
+lincRNA-ROR	let-7e-3p	NA	28580169	qRT-PCR
+lincRNA-ROR	let-7b-3p	NA	28580169	qRT-PCR
+lincRNA-ROR	let-7c-3p	NA	28580169	qRT-PCR
+HOTAIR	miR-148a	Snail2	28441714	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTAIR	miR-148a	E-cadherin	28441714	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTAIR	miR-148a	N-cadherin	28441714	luciferase reporter assays;qRT-PCR;Western blot assay
+HOTAIR	miR-148a	Vimentin	28441714	luciferase reporter assays;qRT-PCR;Western blot assay
+XIST	miR-449a	BCL2	28248928	qRT-PCR;Western blot assay
+TUG1	miR-9	Bcl2l11 	28202414	qRT-PCR;Western blot assay
+TUG1	miR-300	NA	28178615	luciferase reporter assays;qRT-PCR;Western blot assay
+FTH1P3	miR-224-5p	fizzled5	28093311	luciferase reporter assays;qRT-PCR;Western blot assay
+HULC	miR-200a	cMyc	28069548	qRT-PCR;Western blot assay
+HULC	miR-200a	BCL2	28069548	qRT-PCR;Western blot assay
+HOTAIR	miR-7	HuR	27941336	
+DDAH1-V3	miR-21	DDAH1	27663503	luciferase reporter assays;qRT-PCR;Western blot assay
+TUG1	miR-9-5p	POU2F1	27658774	luciferase reporter assays;qRT-PCR;Western blot assay
+UFC1	miR-34a	--	27529373	luciferase reporter assays;qRT-PCR
+XIST	miR-34a-5p	E2F3	27461945	luciferase reporter assays;qRT-PCR;Western blot assay
+TUG1	miR-26a	PTEN	27298156	luciferase reporter assays;qRT-PCR;Western blot assay
+UCA1	miR-204-5p	CREB1	27046651	luciferase reporter assays;qRT-PCR;Northern blot assay
+UCA1	miR-204-5p	RAB22A	27046651	luciferase reporter assays;qRT-PCR;Northern blot assay
+UCA1	miR-204-5p	BCL2	27046651	luciferase reporter assays;qRT-PCR;Northern blot assay
+TUSC7	miR-10a	EphA4	27002617	luciferase reporter assays;qRT-PCR;Western blot assay
+TUG1	miR-106a	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+TUG1	miR-106b	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+TUG1	miR-17-5p	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+TUG1	miR-20a	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+TUG1	miR-20b	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+TUG1	miR-26a	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+TUG1	miR-26b	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+TUG1	miR-93	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+CTB-89H12.4	miR-106a	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+CTB-89H12.4	miR-106b	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+CTB-89H12.4	miR-17-5p	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+CTB-89H12.4	miR-19a	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+CTB-89H12.4	miR-19b	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+CTB-89H12.4	miR-20a	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+CTB-89H12.4	miR-20b	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+CTB-89H12.4	miR-26a	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+CTB-89H12.4	miR-26b	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+CTB-89H12.4	miR-93	PTEN	26975529	luciferase reporter assays;qRT-PCR;Western blot assay
+UVA1	miR-485-5p	MMP14	26867765	luciferase reporter assays;qRT-PCR
+H19	miR-141	CTNNB1	26853553	luciferase reporter assays;qRT-PCR;Western blot assay
+H19	miR-22	CTNNB1	26853553	luciferase reporter assays;qRT-PCR;Western blot assay
+LINC00162	miR-320a	Nucleolin	26539909	luciferase reporter assays;qRT-PCR;Northern blot assay
+LINC00162	miR-383	Nucleolin	26539909	luciferase reporter assays;qRT-PCR;Northern blot assay
+PCGEM1	miR-770	GFP	26340084	qRT-PCR;Western blot assay
+lincRNA-p21	miR-130b	NA	26273737	qRT-PCR
+NEAT1	miR-449b-5p	c-Met	26242266	luciferase reporter assays;qRT-PCR;RNA immunoprecipitation
+H19	let-7	IGF1R	26089099	qRT-PCR;Western blot assay
+CCAT1	let-7a	HMGA2	25884472	luciferase reporter assays;qRT-PCR;Western blot assay
+CCAT1	let-7b	HMGA2	25884472	luciferase reporter assays;qRT-PCR;Western blot assay
+CCAT1	let-7c	HMGA2	25884472	luciferase reporter assays;qRT-PCR;Western blot assay
+CCAT1	let-7e	HMGA2	25884472	luciferase reporter assays;qRT-PCR;Western blot assay
+CCAT1	let-7a	c-Myc	25884472	luciferase reporter assays;qRT-PCR;Western blot assay
+CCAT1	let-7b	c-Myc	25884472	luciferase reporter assays;qRT-PCR;Western blot assay
+CCAT1	let-7c	c-Myc	25884472	luciferase reporter assays;qRT-PCR;Western blot assay
+CCAT1	let-7e	c-Myc	25884472	luciferase reporter assays;qRT-PCR;Western blot assay
+MALAT1	miR-133a	Srf	25868726	luciferase reporter assays;qRT-PCR;Western blot assay
+UCA1	miR-216b	FGFR1	25760077	luciferase reporter assays;qRT-PCR;Western blot assay
+H19	miR-17-5p	NA	25531890	luciferase reporter assays;qRT-PCR;Western blot assay
+H19	miR-106a	NA	25531890	luciferase reporter assays;qRT-PCR;Western blot assay
+H19	let-7a	INSR	25399420	luciferase reporter assays;qRT-PCR;Western blot assay
+miR-21 sponge	miR-21	PTEN	25266796	qRT-PCR;Western blot assay
+lincRNA-ROR	miR-145	ARF6	25253741	qRT-PCR;Western blot assay
+PDGF	miR-138	FAK	24792185	qRT-PCR;Western blot assay
+PDGF	miR-138	ERK1	24792185	qRT-PCR;Western blot assay
+PDGF	miR-138	Runx2	24792185	qRT-PCR;Western blot assay
+PDGF	miR-138	ERK2	24792185	qRT-PCR;Western blot assay
+AC026166.2-001	miR-24-3p	p27	29463827	Microarray,PCR,Western blot,Luciferase reporter assay,knockdown
+ADAMTS9-AS2	miR-182	NR3C1	29512732	qPCR etc
+ADAMTS9-AS2	miR-223-3p	TGFBR3	29707897	Microarray,qPCR,Western blot etc
+ADPGK-AS1	miR-205-5p	ZEB1	29667486	Microarray,qPCR,Western blot etc
+ANRIL	miR-125a	NA	29635126	qPCR,Luciferase reporter assay,in vitro knockdown etc
+ATB	miR-200c	ZEB1	29657927	qPCR,RNAi etc
+ATB	miR-200c	ZNF-217	29657927	qPCR,RNAi etc
+ATB	miR-494	STAT3	29693289	qPCR,Western blot etc
+ATB	miR-126	KRAS	29321082	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+BANCR	miR-532-5p	NCF2	29483646	RNA-seq,Microarray,RT-qPCR,Western blot,Luciferase reporter assay,in vitro knockdown
+BCYRN1	miR-138	VEGF	29552212	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+BCYRN1	miR-138	MMP2	29552212	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+BLACAT1	miR-361	ABCB1	29710482	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+CASC2	miR-181a	TGFB	29523222	qPCR,Western blot,in vitro knockdown etc
+CASC2	miR-181a	PLXNC	29514220	Microarray,qPCR,Western blot,Luciferase reporter assay
+CASC2	miR-24	TRAIL	29476051	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+CASC2	miR-221	TRAIL	29476051	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+CASC2	miR-18a-5p	RUNX1	29422114	RT-qPCR,Western blot,Luciferase reporter assay
+CASC2	miR-183	SPRY2	29373811	RT-PCR,Luciferase reporter assay,in vitro knockdown
+CAT104	miR-381	ZEB1	29295724	qRT-PCR,Western blot,Luciferase reporter assay
+CAT104	miR-381	ZEB1	29523223	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+CCAT1	miR-1290	TCF21	29424889	qPCR
+CNALPTC1	miR-30a	BCL9	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30b	BCL9	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30c	BCL9	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30d	BCL9	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30e	BCL9	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30a	SNAI1	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30b	SNAI1	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30c	SNAI1	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30d	SNAI1	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30e	SNAI1	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30a	VIM	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30b	VIM	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30c	VIM	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30d	VIM	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CNALPTC1	miR-30e	VIM	29416932	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,RIP
+CRNDE	miR-145	E2F3 	29710461	qPCR,in vitro knockdown etc
+CRNDE	miR-144	FGF2	29512732	qPCR etc
+DANCR	miR-758-3p	BCL-2	29635134	qPCR,Luciferase reporter assay,in vitro knockdown etc
+DANCR	miR-33a-5p	AXL	29572052	qPCR,Western blot,Luciferase reporter assays,in vitro knockdown etc
+DANCR	miR-33b-5p	AXL	29572052	qPCR,Western blot,Luciferase reporter assays,in vitro knockdown etc
+DANCR	miR-1-3p	AXL	29572052	qPCR,Western blot,Luciferase reporter assays,in vitro knockdown etc
+DANCR	miR-206	AXL	29572052	qPCR,Western blot,Luciferase reporter assays,in vitro knockdown etc
+DANCR	miR-613	AXL	29572052	qPCR,Western blot,Luciferase reporter assays,in vitro knockdown etc
+DANCR	miR-335-5p	ROCK1	29753317	qPCR,Western blot etc
+DANCR	miR-1972	ROCK1	29753317	qPCR,Western blot etc
+DANCR	miR-613	MMP-9	29744877	qPCR,Western blot etc
+DANCR	miR-34c	MMP-9	29744877	qPCR,Western blot etc
+DANCR	miR-577	HSP27	29717105	qPCR,Western blot,RIP etc
+DANCR	miR-634	RAB1A	29301870	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+DGCR5	miR-22-3p	BCL-2	29030962	qPCR,Western blot etc
+DGCR5	miR-330-5p	CD44	29663359	qPCR,Western blot,Luciferase reporter assay etc
+Dleu2	miR-16-1	NA	29687850	qPCR,Luciferase reporter assay,in vitro knockdown etc
+ENST01108	miR-489	SIK1	29421578	qPCR,Western blot,Luciferase reporter assay etc
+FABP5P3	miR-589-5p	ZMYND19	29522715	qPCR,Luciferase reporter assay,in vitro knockdown etc
+FAL1	miR-1236	AFP	29421439	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+FAL1	miR-1236	ZEB1	29421439	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+FENDRR	miR-18a-5p	RUNX1	29465000	qPCR,Luciferase reporter assay,in vitro knockdown
+FEZF1-AS1	miR-4443	NUPR1	29510778	RT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+FEZF1-AS1	miR-107	ZNF312B	29348628	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+FLVCR1-AS1	miR-513c	MET	29574975	qPCR,in vitro knockdown,Luciferase reporter assay etc
+FOXD2-AS1	miR-143	ABCC3	29674277	qPCR,Western blot,Luciferase reporter assay etc
+GACAT3	miR-149	SP1	29593420	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+GACAT3	miR-149	STAT3 	29593420	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+GAS5	miR-221	NA	29630521	qPCR etc
+GAS5	miR-203a	TIMP2	29414815	qPCR,Western blot
+GAS5	miR-21	AGO4	29719612	qPCR,RNAi etc
+GAS5	miR-301a	CXCR4	29386089	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+GUARDIN	miR-23a	TRF2	29593331	Microarray,Luciferase reporter assay,in vitro knockdown,RNAi etc
+H19	miR-106a-5p	E2F3	29350287	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+H19	miR-675	E2F-1	29344285	qPCR,Luciferase reporter assay,Western blot
+H19	miR?138	EZH2	29344674	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+H19	miR-148a	DNMT1	29719612	qPCR,RNAi etc
+H19	miR-484	ROCK2	29219208	qPCR,Western blot etc
+H19	miR-29b-3p	PGRN	29754471	qPCR,Western blot,Luciferase reporter assay etc
+H19	miR-17	STAT3	29693721	qPCR,Western blot,Luciferase reporter assay etc
+H19	miR-103	Trx	29693231	qPCR etc
+H19	miR-107	Trx	29693231	qPCR etc
+H19	let-7	Trx	29693231	qPCR etc
+H19	miR-29b-1	Trx	29693231	qPCR etc
+H19	miR-675	KIF1B	29465760	qRT-PCR,Western blot
+H19	miR-675	EZH2	29643989	RT-qPCR,Western blot,in vitro knockdown,RIP
+H19	miR-29a	EZH2	29643989	RT-qPCR,Western blot,in vitro knockdown,RIP
+H19	miR-152	NA	29422115	qRT-PCR,Luciferase reporter assay
+H19	let-7a	HMGA2	29523225	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown
+HAGLROS	miR-100-5p	ATG9A	29329543	RNA-seq,Microarray,qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+HAGLROS	miR-100-5p	ATG9B	29329543	RNA-seq,Microarray,qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+HCP5	miR-22-3p	ST6GAL2 	29515098	RNA-seq,qPCR,RNAi etc
+HCP5	miR-186-5p	ST6GAL2 	29515098	RNA-seq,qPCR,RNAi etc
+HCP5	miR-216a-5p	ST6GAL2 	29515098	RNA-seq,qPCR,RNAi etc
+HOST2	let-7b	c-Myc	29236319	qPCR,Western blot etc
+HOTAIR	miR-331-3p	HER2	29683069	qPCR etc
+HOTAIR	miR-454-3p	EZH2	29221985	qPCR,Western blot,in vitro knockdown etc
+HOTAIR	miR-148a	AGO4	29719612	qPCR,RNAi etc
+HOTAIR	miR-15b	p53 	29323737	qPCR,Western blot etc
+HOTAIR	miR-331-3p	NRP2	29130509	qPCR,Western blot,RNAi etc
+HOTAIR	miR-133a-3p	XIRP1	29620291	qPCR etc
+HOTAIR	miR-143-3p	BCL2	29336659	qPCR,Western blot,Luciferase reporter assay,RIP etc
+HOTAIR	miR-646	NPM1	29466670	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+HOTAIR	miR-23b	MAPK1	29335299	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+HOTAIR	miR-126-5p	GLS	29319172	Microarray,qRT-PCR,Western blot,Luciferase reporter assay
+HOTAIR	miR-20a-5p	HMGA2	29473328	qPCR,Western blot,in vitro knockdown
+HOTTIP	miR-637	AKT1	29474928	qPCR,Western blot,RIP etc
+HOTTIP	miR-216a	BCL-2	29367594	Microarray,RT-qPCR,Western blot,Luciferase reporter assay,in vitro knockdown,RNAi,RIP
+HOXA11-AS	miR-214-3p	NA	29761918	qPCR,Western blot etc
+HOXA11-AS	miR-642b-3p	PDE4D	29616096	qPCR etc
+HOXD-AS1	miR-130a	E2F8	29341117	qPCR,Western blot,Luciferase reporter assay etc
+HOXD-AS1	miR-217	AEG-1	29749477	qPCR,Western blot,Luciferase reporter assay etc
+HOXD-AS1	miR-608	FZD4	29416930	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+HULC	miR-150	ZEB1	29512732	qPCR etc
+HULC	miR-200a-3p	ZEB1	29765457	qPCR,Western blot,Luciferase reporter assay etc
+KCNQ1OT1	miR?504	CDK16	29532864	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+KCNQ1OT1	miR-153	MET	29667930	Microarray,qPCR,Western blot etc
+LINC00152	miR-16	BMI1	29669323	qPCR,Luciferase reporter assay,in vitro knockdown
+LINC00152	miR-193a-3p	MCL1	29339419	Microarray,qPCR,Western blot,RNAi etc
+LINC00152	miR-107	HMGA2	29671226	qPCR,Western blot etc
+LINC00174	miR-1910-3p	TAZ 	29729381	qPCR,Luciferase reporter assay etc
+LINC00319	miR-450b-5p	EZH2	29408583	qPCR,Luciferase reporter assay etc
+LINC00483	miR-30a-3p	SPAG9	29761936	qPCR,Western blot etc
+LINC00511	miR-765	LAMC2	29315846	Microarray,qPCR,Western blot,Luciferase reporter assay etc
+LINC00675	miR-942	GSK3B	29524886	qPCR,Western blot,Luciferase reporter assay etc
+LINC00894-002	miR-200a-3p	TamR	29738694	qPCR,Western blot etc
+LINC00894-002	miR-200b-3p	TamR	29738694	qPCR,Western blot etc
+LINC01016	miR-302a-3p	SATB1	29467441	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+LINC01016	miR-3130-3p	SATB1	29467441	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+LINC01088	miR-24-1-5p	PAK4	29440672	Microarray,RT-qPCR,Western blot,Luciferase reporter assay
+LINC01234	miR-204-5p	CBFB	29386218	qPCR,Western blot,Luciferase reporter assay,RIP etc
+LINC01296	miR-21a	PDCD4	29673421	qPCR,RIP etc
+LINC01296	miR-21a	PTEN	29673421	qPCR,RIP etc
+LINC01296	miR-21a	TPM1	29673421	qPCR,RIP etc
+ATB	miR-200a	STAT3	29331759	qPCR,Western blot etc
+ATB	miR-200b	STAT3	29331759	qPCR,Western blot etc
+ATB	miR-200c	STAT3	29331759	qPCR,Western blot etc
+ATB	miR-200a	IL-1	29331759	qPCR,Western blot etc
+ATB	miR-200b	IL-1	29331759	qPCR,Western blot etc
+ATB	miR-200c	IL-1	29331759	qPCR,Western blot etc
+LUCAT1	miR-375	DNMT1	29247823	qPCR,Western blot,RIP,in vitro knockdown etc
+MALAT1	miR-125b	STAT3	28926115	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown, RIP etc
+MALAT1	miR-101	NA	29479863	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc 
+MALAT1	miR-145-5p	AKAP12	29633510	qPCR,Western blot,Luciferase reporter assay etc
+MALAT1	miR-124	foxq1	29736319	qPCR,Western blot etc
+MALAT1	miR-145	KLF4	29719612	qPCR,RNAi etc
+MALAT1	miR-17	PTEN	29574704	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+MALAT1	miR-20a	PTEN	29574704	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+MALAT1	miR-106b	PTEN	29574704	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+MALAT1	miR-17	PTEN	29574704	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown
+MALAT1	miR-20a	PTEN	29574704	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown
+MALAT1	miR-107b	PTEN	29574704	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown
+MALAT1	miR-143-3p	ZEB1	29604585	qPCR etc
+MALAT1	miR-124	SNARE	29073720	qPCR,Western blot,Luciferase reporter assay etc
+MALAT1	miR-509	Rac1	28560950	qPCR,Western blot,Luciferase reporter assay etc
+MALAT1	miR-204	SIRT1	28720061	qPCR,Luciferase reporter assay etc
+MAP3K20	miR-375	JAK2	29428732	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown, RIP etc
+MCM3AP-AS1	miR-211	KLF5	29375300	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+MEG3	miR-21	VEGF	29710493	qPCR,Western blot,Luciferase reporter assay etc
+MEG3	miR-21	PKM2	29749532	qPCR,Western blot,RNAi etc
+MEG3	miR-1297	PTEN	29449541	RT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+MIAT	miR-141	DDX5	29540201	qPCR,RIP,Western blot,Luciferase reporter assay,in vitro knockdown etc
+MIAT	miR-214	NA	29097358	qPCR,Western blot,RNAi etc
+MIAT	miR-132	Derlin-1	29686537	qPCR,Western blot,Luciferase reporter assay etc
+MIAT	miR-34a	NA	29487526	RNA-seq,qPCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+MIR100HG	miR-100	p53	29748571	RNA-seq,qPCR,Western blot etc
+MIR100HG	miR-125b	p53	29748571	RNA-seq,qPCR,Western blot etc
+MIR100HG	let-7a	p53	29748571	RNA-seq,qPCR,Western blot etc
+MIR222HG	miR-221	NA	29540675	qPCR,luciferase reporter assayRIP,in vitro knockdown etc
+MIR222HG	miR-222	NA	29540675	qPCR,luciferase reporter assayRIP,in vitro knockdown etc
+MIR503HG	miR-503	Smurf2	29758012	qPCR etc
+MNX1-AS1	miR-4443	NA	29678219	qPCR etc
+MT1JP	miR-214-3p	RUNX3	29742512	qPCR,Western blot,RNAi etc
+MT1JP	miR-92a-3p	FBXW7	29720189	qPCR,Western blot,Luciferase reporter assay etc
+MYCNOS-01	miR-485-5p	MYCN	29466962	Microarray,qRT-PCR,Western blot,in vitro knockdown
+n335586	miR-924	CKMT1A	29753758	qPCR,Western blot etc
+NCK1-AS1	miR-6857	CDK1	29416014	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+NCK1-AS1	miR-6857	CDK6	29416014	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+NEAT1	miR-365	RGS20 	29484420	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+NEAT1	let-7a-5p	Rsf-1	29565706	qPCR,Western blot etc
+NEAT1	miR-124-3p	ATGL	29764424	qPCR,Western blot etc
+NEAT1	miR-34c	BCL-2 	29654165	qPCR,RNAi etc
+NEAT1	miR-506	STAT3	29363783	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+NEAT1	miR-448	ZEB1	29323713	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+NEAT1	miR-129-5p	KLK7	29319165	Microarray,QRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+NEAT1	miR-106b-5p	ATAD2	29515109	qPCR,RNAi,Western blot
+NNT-AS1	miR-142-3p	ZEB1	29710510	qPCR,Western blot etc
+NORAD	miR-202-5p	NA	29471886	qRT-PCR,Western blot,in vitro knockdown,Luciferase reporter assay
+NR2F1-AS1	miR-363	ABCC1	29602203	qPCR,Microarray,Western blot etc
+OIP5-AS1	miR-186a-5p	ZEB1	29475118	qPCR,Western blot,RIP etc
+PAX8-AS1-N	miR-17-5p	PTEN	29693272	qPCR,Western blot etc
+PAX8-AS1-N	miR-17-5p	CDKN1A	29693272	qPCR,Western blot etc
+PAX8-AS1-N	miR-17-5p	ZBTB4 	29693272	qPCR,Western blot etc
+PFKFB2	miR-182	PFKFB2	29655792	qPCR etc
+PlncRNA-1	miR-204	MMP9	29738066	Western blot etc
+PRLB	miR-4766-5p	SIRT1	29752439	Microarray,qPCR,Western blot,RIP etc
+PTENP1-AS	miR-21	AGO4	29719612	qPCR,RNAi etc
+PVT1	miR-455	RUNX2PVT1	29637007	qPCR,Western blot etc
+PVT1	miR-26b	CTGF	29620147	Western blot, Luciferase reporter assay etc
+PVT1	miR-26b	ANGPT2	29620147	Western blot, Luciferase reporter assay etc
+PVT1	miR-186	Twist1	29452232	RNA-seq,qPCR,Western blot etc
+PVT1	miR-190a-5p	CTGF	29501773	qPCR,Luciferase reporter assay etc
+PVT1	miR-488-3p	MEF2C	29501773	qPCR,Luciferase reporter assay etc
+PVT1	miR-152	BMP3	28657147	qPCR etc
+PWRN1	miR-425-5p	PTEN	29535266	Microarray,qPCR,Western blot,RIP,Luciferase reporter assay
+PWRN1	miR-425-5p	Akt	29535266	Microarray,qPCR,Western blot,RIP,Luciferase reporter assay
+PWRN1	miR-425-5p	MDM2	29535266	Microarray,qPCR,Western blot,RIP,Luciferase reporter assay
+PWRN1	miR-425-5p	p53	29535266	Microarray,qPCR,Western blot,RIP,Luciferase reporter assay
+lincRNA-ROR	miR-145	Sox2	29690669	qPCR,Western blot,luciferase reporter assay etc
+lincRNA-ROR	miR-145	Nanog	29690669	qPCR,Western blot,luciferase reporter assay etc
+lincRNA-ROR	miR-145	Oct4	29690669	qPCR,Western blot,luciferase reporter assay etc
+lincRNA-ROR	miR-145	KLF4	29719612	qPCR,RNAi etc
+lincRNA-ROR	miR-145	MUC1	29673594	qPCR etc
+lincRNA-ROR	miR-145	RAD18	29559320	qPCR,Western blot etc
+lincRNA-ROR	miR-145	FSCN1	29430188	qRT-PCR,Western blot,RIP
+RP11-169D4.1	miR-205-5p	CDH1	28534968	qPCR,Western blot etc
+RP11-396F22.1	miR-32	Cpne8	29636859	Microarray,qPCR,in vitro knockdown etc
+RP11-909B2.1	miR-595	L3MBTL1	29737552	qPCR etc
+RP4	miR-7-5p	SH3GLB1	29531464	Western blot,qPCR,in vitro knockdown,etc
+SMARCC2	miR-551b-3p	TMPRSS4	29337109	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown, etc
+SNHG1	miR-145-5p	NAUK1	29575772	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+SNHG1	miR-145-5p	MTDH	29466052	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+SNHG12	miR-424-5p	NA	29533945	qPCR,Luciferase reporter assay
+SNHG12	miR-199a	Argo2	29565487	qPCR,RIP,Luciferase reporter assay
+SNHG12	miR-199b-5p	Argo2	29565487	qPCR,RIP,Luciferase reporter assay
+SNHG14	miR-145	PI3K	29667771	qPCR,Western blot,Luciferase reporter assay etc
+SNHG14	miR-145	AKT	29667771	qPCR,Western blot,Luciferase reporter assay etc
+SNHG14	miR-145	mTOR	29667771	qPCR,Western blot,Luciferase reporter assay etc
+SNHG14	miR-92a-3p	NA	29552296	qRT-PCR,Western blot,Luciferase reporter assay
+SNHG15	miR-486	CDK14	29630731	qPCR,Western blot,Luciferase reporter assay etc
+SNHG15	miR-98	E2F transcription factor 5 protein	29750422	qPCR,Western blot etc
+SNHG16	miR-4518	PRMT5	29529599	qPCR,Luciferase reporter assay,Western blot
+SNHG16	miR-4518	PI3K	29529599	qPCR,Luciferase reporter assay,Western blot
+SNHG16	miR-4518	Akt	29529599	qPCR,Luciferase reporter assay,Western blot
+SNHG20	miR-140-5p	ADAM10	29604594	qPCR etc
+SNHG5	miR-377	CASP1 	29592872	Western blot,in vitro knockdown,Luciferase reporter assay,RNAi etc
+SNHG7	miR-503	Cyclin D1	29571017	qPCR,Western blot etc
+SNHG7	miR-5095	CTNNB1	29360452	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+SNHG8	miR-152	c-MET	29630089	qPCR,Western blot,Luciferase reporter assay etc
+SOX2OT	miR-200a	Sox2	29643475	Microarray,RIP etc
+SOX2OT	miR-200b	Sox2	29643475	Microarray,RIP etc
+SOX2OT	miR-200c	Sox2	29643475	Microarray,RIP etc
+SPRY4-IT1	miR-101-3p	EZH2	29642935	qPCR,Western blot,Luciferase reporter assay,RIP etc
+SPRY4-IT1	miR-101-3p	EZH2	28720069	qPCR,Western blot,Luciferase reporter assay etc
+TINCR	miR-7	SP1	29614984	qPCR,Luciferase reporter assay,in vitro knockdown etc
+TINCR	miR-544a	FBXW7 	29324317	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP etc
+TP53TG	miR-18a	PTEN	29588850	qPCR,Western blot,luciferase reporter assay,RIP,in vitro knockdown etc
+TP73-AS1	miR-142	HMGB1	28379612	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+TP73-AS1	miR-124	p53	29412778	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+TUG1	miR-129-5p	AEG1 	29543785	qPCR,Western blot,Luciferase reporter assay etc
+TUG1	miR-145	KLF4	29719612	qPCR,RNAi etc
+TUG1	miR-132-3p	SOX4 	29436190	RT-qPCR, Western blot, Luciferase reporter assay, in vitro knockdown
+TUG1	miR-29c	NA	29321088	qRT-PCR,Luciferase reporter assay,in vitro knockdown
+TUNAR	miR-200a	Rac1	29540255	qPCR,Western blot,luciferase reporter assay etc
+TUSC7	miR-10a	MDR1	29397407	qPCR,Western blot,in vitro knockdown etc
+TUSC7	miR-224	DESC1	29530057	qPCR,Western blot,RIP,luciferase reporter assays
+TUSC7	miR-224	EGFR	29530057	qPCR,Western blot,RIP,luciferase reporter assays
+TUSC7	miR-224	AKT	29530057	qPCR,Western blot,RIP,luciferase reporter assays
+UCA1	miR-126	PI3K	29762824	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+UCA1	miR-126	AKT	29762824	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+UCA1	miR-126	JAK	29762824	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+UCA1	miR-126	STAT	29762824	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+UCA1	miR-206	VEGF	29523226	qPCR,Luciferase reporter assay,in vitro knockdown etc
+UCA1	miR-182	PFKFB2 	29655792	qPCR etc
+UCA1	miR-1	COX6B2	29620291	qPCR etc
+UCA1	miR-7-5p	EGFR	29723509	qPCR,Western blot RIP etc
+UCA1	miR-129	SOX4 	29760557	qPCR,Western blot,Luciferase reporter assay,RIP etc
+UCA1	miR-122-5p	IMP1	29669595	qPCR,Western blot etc
+UCA1	miR-125a	HK2	29663500	qPCR,Western blot,Luciferase reporter assay,RIP etc
+UCA1	miR-18a	YAP1	29408336	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+UCA1	miR-193a	HMGB1	29355524	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown, RNAi
+UCA1	miR-590-3p	CREB1	29516678	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+UCA1	miR-96	FOXO3	29500870	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+UCA1	miR-301a	CXCR4	29523218	qPCR,Western blot,in vitro knockdown
+XIST	miR-185	TGFB1	29053187	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown,etc
+XIST	miR-367	ZEB2	29339211	qPCR,Western blot,in vitro knockdown,RNAi,RIP etc
+XIST	miR-141	ZEB2	29339211	qPCR,Western blot,in vitro knockdown,RNAi,RIP etc
+XIST	miR-200c	ZEB2	29559853	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+XIST	miR-194-5p	MAPK1 	29227532	qPCR,Western blot,Luciferase reporter assay etc
+XIST	miR-137	PXN	29337100	qPCR,Western blot,Luciferase reporter assay,RIP etc
+XIST	miR-491-5p	NA	29219216	qPCR,Western blot etc
+XIST	miR-34a	WNT1	29679755	qPCR,Western blot,Luciferase reporter assay etc
+XIST	miR-155	CDX1	29550489	qPCR,Western blot,Luciferase reporter assay etc
+XIST	miR-195-5p	YAP	29384226	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+XIST	miR-34a-5p	NA	29393501	qPCR,RNAi,in vitro knockdown,Luciferase reporter assay etc
+ZEB1	miR-205-5p	ADPGK-AS1	29667486	Microarray,qPCR,Western blot etc
+ZEB1	miR-205-5p	ADPGK-AS1	29667486	Microarray,qPCR,Western blot etc
+ZEB1-AS1	miR-101	ZEB1	29511455	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+ZEB2-AS1	miR-204	HMGB1	29753015	qPCR,Western blot,Luciferase reporter assay,RIP etc
+ZFAS1	miR-329	NA	29653362	qPCR,Luciferase reporter assay etc
+LINC00319	miR-32	AURKA	28800794	qPCR,Western blot
+LINC00319	miR-32	SOX9	28800794	qPCR,Western blot
+LINC00319	miR-32	TWIST1	28800794	qPCR,Western blot
+C2DAT1	miR-34a-5p	Sirt1	28810936	Luciferase Reporter Assay,qPCR,Western blot,etc.
+AC023115.3	miR-26a	GSK3汕-Mcl1	28499919	qPCR,westen blot,microarray etc.
+AF113014	miR-20a	Egr2	28542387	qPCR,Western blot etc.
+AF119895	miR-6508-3p	NXF3	29274323	Microarray,qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+AGER	miR-185	AGER	29068471	qRT-PCR,western blotting,Luciferase reporter assay
+AK027145	miR-148b	NA	28043146	microarray,qPCR etc.
+ANRIL	miR-323	BRI3	28513871	qPCR,Luciferase reporter assay,Western blot
+ANRIL	miR-323	CDK6	28513871	qPCR,Luciferase reporter assay,Western blot
+ANRIL	miR-199a	NA	28961506	qPCR,Luciferase reporter assay,RIP
+ANRIL	miR-34a	Sirt1	29057547	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+ANRIL	let-7a	NA	28117929	qPCR,RNAi,Luciferase reporter assay,MTT assay etc.
+ANRIL	miR-125a	NA	28402230	qPCR,Luciferase reporter assays
+ANRIL	miR-186	NA	28550682	qPCR,Luciferase Reporter Assay
+ANRIL	miR-122-5p	NA	29127494	qRT-PCR,Luciferase reporter assay,in vitro knockdown,RIP
+ASLNC02525	miR-489-3p	TWIST1	28713968	Luciferase reporter experiment,qPCR,etc.
+ATB	miR-200b	Kindlin-2	28640252	qPCR,Western blot,Luciferase reporter assay,RIP etc
+ATB	miR-200a	ZEB1	28469952	qPCR,Western blot,Luciferase reporter assay
+ATB	miR-200a	ZEB2	28469952	qPCR,Western blot,Luciferase reporter assay
+ATB	miR-200b	ZEB1	28469952	qPCR,Western blot,Luciferase reporter assay
+ATB	miR-200b	ZEB2	28469952	qPCR,Western blot,Luciferase reporter assay
+ATB	miR-200c	ZEB1	28469952	qPCR,Western blot,Luciferase reporter assay
+ATB	miR-200c	ZEB2	28469952	qPCR,Western blot,Luciferase reporter assay
+ATB	miR-200a	NA	28770959	qPCR etc.
+ATB	miR-200b	NA	28770959	qPCR etc.
+ATB	miR-200c	NA	28770959	qPCR etc.
+BANCR	miR-204	Notch2	29075789	qPCR,Luciferase reporter assay,Western blot
+CAMTA1	miR-20b	VEGF	28550685	qPCR,Western blot,Luciferase Reporter Assays
+CASC2	miR-181a	PTEN	28121023	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay,MTT assay etc.
+CASC2	miR-24-3p	SOX7	29091305	qPCR,Western blot etc.
+CASC2	miR-181a	RASSF6	29194827	qRT-PCR,Western blot
+CASC2	miR-367	FBXW7 	28716020	qPCR,Western blot etc.
+CASC2	miR-18a-5p	PTEN	28964779	qPCR,Luciferase reporter assay,Western blot
+CASC2c	miR-101	CPEB1	28252647	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay,Cell migration and invasion assay,ISH etc.
+CASC7	miR-21	ING3	28954383	qPCR,Luciferase reporter assay,Western blot etc.
+CCAT1	miR-33a	NA	28409554	qPCR,Luciferase reporter assay,in vitro knockdown
+CCAT1	miR-181a-5p	HOXA1	29228867	qPCR,Luciferase reporter assay,Western blot
+CCAT1	miR-181b	FGFR3	28475287	qPCR,Luciferase reporter assay,Western blot,RIP
+CCAT1	miR-7	HOXB13	27956498	qPCR,RNAi,Western blot,Cell proliferation assay etc.
+CCAT1	miR-218-5p	CDC2	28088735	qPCR,RNAi,Western blot,Cell migration and invasion assay etc.
+CCAT1	miR-410	ITPKB	29190961	qPCR etc.
+CCAT1	miR-490-3p	cyclin-dependent kinase 1	28381168	qPCR,Western blot,RNAi,Luciferase reporter assay
+CCAT1	miR-218	ZFX	28631575	qPCR,western blot,Luciferase reporter assays etc.
+CCAT1	miR-148a	PIK3IP1	28549102	qPCR,RNAi etc.
+CCAT1	miR-148b	caspase3	29024383	qRT-PCR,Luciferase reporter assay,RIP
+CCAT2	miR-424	NA	28550684	Western blot,Luciferase reporter assay,in vitro knockdown
+CCAT2	miR-216b	Bcl-2	29036788	qPCR,Luciferase reporter assay,Western blot
+CCAT2	miR-34a	FOXM1	28744394	qPCR,Western blot,Luciferase report assay,RIP,ChIP etc.
+CRNDE	miR-384	IRS1	28940804	qPCR,Luciferase reporter assay,Western blot
+CRNDE	miR-181a-5p	TCF4?	28086904	qPCR,RNAi,Western blot,Luciferase reporter assay,FISH,MTT assay etc.
+CRNDE	miR-181a-5p	CTNNB1?	28086904	qPCR,RNAi,Western blot,Luciferase reporter assay,FISH,MTT assay etc.
+CRNDE	miR-136	E2F1	28115855	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay,Cell migration and invasion assay etc.
+CRNDE	miR-451	NA	28276319	qPCR,RNAi,Luciferase reporter assay,Cell proliferation assay etc.
+CRNDE	miR-136-5p	Bcl-2	29152149	qPCR,Western blot,Luciferase reporter assay,etc.
+CRNDE	miR-136-5p	Wnt2	29152149	qPCR,Western blot,Luciferase reporter assay,etc.
+CRNDE	miR-145	E2F3	28490034	qPCR,Western blot,RNAi,Luciferase reporter assay
+CRNDE	miR-136	c-myc	28469804	qPCR
+CRNDE	miR-217	TCF7L2 	28472810	qPCR,Western blot,Luciferase reporter assay
+CRNDE-p	miR-217	NA	29137379	qPCR,Western blot etc.
+CTA	miR-210	DOX	28415557	qPCR,Western blot,MIT,Luciferase reporter assays
+DANCR	miR-496	mTOR	29266795	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown,RNAi,RIP etc
+DANCR	miR-33a-5p	AXL	28642170	qPCR,Western blot,Luciferase reporter assay,etc.
+DGCR5	miR-1180	AKT	28744397	qPCR,Western blot,Luciferase report assay etc.
+DLX6-AS1	miR-26a	PTEN	28881158	qPCR,Western blot,RIP,Luciferase reporter assays etc
+ENST00000535511	miR-133b	UBD	28177879	microarray,qPCR etc.
+FBXL19-AS1	miR-203	NA	28479250	microarray,qPCR,Luciferase reporter assay etc.
+FER1L4	miR-106a-5p	PTEN	28759956	qPCR,Western blot etc.
+FOXD2-AS1	miR-363-5p	S100A1	29248577	qPCR,Western blot,in vitro knockdown etc
+FTH1P3	miR-224-5p	FZD5	28093311	qPCR,Cell transfection,Western blot,Luciferase reporter assay,RNA pull-down assay etc.
+FTH1P3	miR-224-5p	RAC1	29095823	qPCR,Western blot etc.
+FTX	miR-342-3p	AEG-1	28112756	qPCR,Cell transfection,Western blot,MTT assay etc.
+GAPLINC	miR-34a	c-MET	29427222	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+GAS5	miR-221	ARHI	28519068	qPCR,Luciferase reporter assay,Western blot,RIP
+GAS5	miR-222-3p	PTEN	29423063	qPCR,Luciferase reporter assay,Western blot
+GAS5	miR-135b	NA	28117028	qPCR,RNAi,Luciferase reporter assay,MTT assay etc.
+GAS5	miR-23a	NA	28059053	qPCR,luciferase reporter assay,MTT assay etc.
+GAS5	miR-196a	FOXG1	28671039	qPCR,Western blot,RIP etc
+GAS5	miR-205	FOXG1	28671039	qPCR,Western blot,RIP etc
+GAS5	miR-196a	PTEN	28671039	qPCR,Western blot,RIP etc
+GAS5	miR-205	PTEN	28671039	qPCR,Western blot,RIP etc
+GAS5	miR-137	NA	28386376	qPCR
+Gm15290	miR-615-5p	IGF2	28474572	qPCR,Western blot
+Gm15290	miR-615-5p	AKT2	28474572	qPCR,Western blot
+Gm15290	miR-615-5p	SHMT2	28474572	qPCR,Western blot
+H19	miR-17	p21 	29143996	Western blot,qPCR,in vitro knockdown,RIP etc
+H19	miR-18a	p21 	29143996	Western blot,qPCR,in vitro knockdown,RIP etc
+H19	miR-19a	p21 	29143996	Western blot,qPCR,in vitro knockdown,RIP etc
+H19	miR-19b	p21 	29143996	Western blot,qPCR,in vitro knockdown,RIP etc
+H19	miR-20a	p21 	29143996	Western blot,qPCR,in vitro knockdown,RIP etc
+H19	miR-29a-3p	E2F1	29214011	qPCR,Luciferase reporter assay,Western blot,RIP,RNAi
+H19	let-7	LIN28	28102845	qPCR,RNAi,Luciferase reporter assay,ISH etc.
+H19	miR-675-5p	VDR	28189050	qPCR,Cell transfection,Western blot,ChIP,Luciferase reporter assay,MTT assay etc.
+H19	miR-200a	b-catenin	28164117	qPCR,RNAi,Western blot,Luciferase reporter assay etc.
+H19	miR-200b	GIT2	28611183	qPCR,microarray,RIP,Western blotting etc.
+H19	miR-200c	GIT2	28611183	qPCR,microarray,RIP,Western blotting etc.
+H19	let-7b	GIT2	28611183	qPCR,microarray,RIP,Western blotting etc.
+H19	miR-138	HMGA1	28358427	qPCR,western blot,luciferase reporter assay
+H19	let-7	PDK	29106390	RT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+H19	let-7c	HER2	29207111	RT-qPCR,Western blot
+H19	miR-19a	ID2	28765931	Western blot,luciferase reporter assay,etc.
+H19	miR-19b	ID2	28765931	Western blot,luciferase reporter assay,etc.
+H19	miR-21	NA	28799568	qPCR etc.
+H19	let-7a	NA	28655518	qPCR etc.
+H19	miR-138	ZEB1	28781681	qPCR,Western blot etc.
+H19	miR-200a	ZEB2	28781681	qPCR,Western blot etc.
+H19	miR-138	ZEB1	28781681	qPCR,Western blot etc.
+H19	miR-200a	ZEB2	28781681	qPCR,Western blot etc.
+H19	miR-29b-3p	DNMT3B	28779971	qPCR,Western blot,Luciferase reporter assay,etc.
+HCAL	miR-15a	LAPTM4B	29246322	qPCR,Luciferase reporter assay,RIP
+HCAL	miR-196a	LAPTM4B	29246322	qPCR,Luciferase reporter assay,RIP
+HCAL	miR-196b	LAPTM4B	29246322	qPCR,Luciferase reporter assay,RIP
+HEIH	miR-200b	EZH2	28487474	qPCR etc
+HEIH	miR-200a	EZH2	28487474	qPCR etc
+HEIH	miR-429	EZH2	28487474	qPCR etc
+HERG	miR-940	TWIST1	29296221	qPCR,Luciferase reporter assay etc.
+HERG	miR-940	SNAIL	29296221	qPCR,Luciferase reporter assay etc.
+HERG	miR-940	MMP9	29296221	qPCR,Luciferase reporter assay etc.
+HIF1A-AS2	miR-129-5p	DNMT3A 	29278853	qRT-PCR,Western blot,Luciferase reporter assay,RIP
+HIX0023999	miR-148b	NA	28043146	microarray,qPCR etc.
+HNF1A-AS1	miR-34a	p53 	28943452	qPCR,Luciferase reporter assay,RIP
+HNF1A-AS1	miR-17-5p	NA	29289833	qRT-PCR,Luciferase reporter assay
+HNF1A-AS1	miR-214	SOX-4	28656277	qPCR,Western blot etc.
+HOTAIR	miR-34a	EZH2	27594424	qPCR,RNAi,ChIP,MTT assay etc.
+HOTAIR	miR-454-3p	STAT3	28182000	qPCR,RNAi,Western blot,Luciferase reporter assay,CCK-8 assay etc.
+HOTAIR	miR-613	PCNA	29187267	qPCR,Western blot,Luciferase reporter assay etc.
+HOTAIR	miR-613	VEGF	29187267	qPCR,Western blot,Luciferase reporter assay etc.
+HOTAIR	miR-197	FUS1	29137688	qPCR,Luciferase reporter assay etc.
+HOTAIR	miR-217	AXL	28492542	qPCR,Western blot,RIP
+HOTAIR	miR-613	Notch3	28415631	qPCR,Western blot,Luciferase reporter assay
+HOTAIR	miR-148a	Snail2	28441714	qPCR,Western blot,Luciferase Reporter Assays
+HOTAIR	miR-218	NFKB	28918035	qPCR,RIP,Western Blot,etc.
+HOTAIR	miR-218	TYMS	28918035	qPCR,RIP,Western Blot,etc.
+HOTAIR	miR-152-3p	MET	29156728	qPCR,Western blot,RIP,RNA pull-down assay etc.
+HOTAIR	miR-331-3p	NA	28745272	qPCR,Luciferase Assay etc.
+HOTAIR	miR-17-5p	NA	28745272	qPCR,Luciferase Assay etc.
+HOTAIR	miR-545	EGFR	28364379	qPCR,Western blot,Luciferase report assay etc.
+HOTTIP	miR-101	ZEB1	28886531	qPCR,luciferase reporter assay etc.
+HOTTIP	miR-574-5p	EZH1	29041935	mcroarray,qPCR,Western blot ,RIP,Luciferase reporter assay etc.
+HOTTIP	miR-30b	HOXA13	28534516	Western blot,RIP,ChIP,qPCR,etc.
+HOXA11-AS	miR-214-3p	EZH2	28946213	qPCR,Luciferase reporter assays,Western blot etc.
+HOXA11-AS	miR-124	p21	28749709	qPCR,Western blot,Luciferase reporter assay,etc.
+HOXA11-AS	miR-124	EZH2	28749709	qPCR,Western blot,Luciferase reporter assay,etc.
+HOXA11-AS	miR-124	Sp1	29034803	qPCR,Western blot,etc.
+HOXA11-AS	miR-200b	ZEB1	28615992	qPCR,RIP,Western blotting etc.
+HOXA11-AS	miR-124-3p	ROCK1	28558357	qPCR,Western blot etc.
+HOXA11-AS	miR-1297	EZH2	28717185	qPCR etc.
+HOXA11-AS	miR-1297	LSD1	28717185	qPCR etc.
+HOXA11-AS	miR-125a-5p	PADI2	29050308	qPCR,Western blot etc.
+HOXA-AS2	miR-520c-3p	TGFBR2	28545023	qPCR,Luciferase report assay etc.
+HOXA-AS2	miR-520c-3p	RELA	28545023	qPCR,Luciferase report assay etc.
+HOXD-AS1	miR-147a	pRB	29033588	qPCR,Western blot,etc.
+HOXD-AS1	miR-130a-3p	EZH2	28810927	Microarray,qPCR,Western blot,In vitro assays,Luciferase reporter assay
+HOXD-AS1	miR-130a-3p	MMP2	28810927	Microarray,qPCR,Western blot,In vitro assays,Luciferase reporter assay
+HOXD-AS1	miR-19a	ARHGAP11A	28724429	qPCR,Western blot,Luciferase reporter assay etc.
+HULC	miR-122	PI3K	28688193	qPCR,Luciferase reporter assay,Western blot
+HULC	miR-122	AKT	28688193	qPCR,Luciferase reporter assay,Western blot
+HULC	miR-122	STAT	28688193	qPCR,Luciferase reporter assay,Western blot
+HULC	miR-122	JAK	28688193	qPCR,Luciferase reporter assay,Western blot
+HULC	miR-122	HNF4G	28688193	qPCR,Luciferase reporter assay,Western blot
+HULC	miR-6825-5p	COX-2	28634076	qPCR,Western blot,RIP,etc.
+HULC	miR-6845-5p	COX-2	28634076	qPCR,Western blot,RIP,etc.
+HULC	miR-6886-3p	COX-2	28634076	qPCR,Western blot,RIP,etc.
+ILF3-AS1	miR-200b	EZH2	28935763	qPCR,RIP etc.
+ILF3-AS1	miR-200a	EZH2	28935763	qPCR,RIP etc.
+ILF3-AS1	miR-429	EZH2	28935763	qPCR,RIP etc.
+KCNQ1OT1	miR-370	CCNE2 	28381990	qPCR,Western blot,RIP,Luciferase reporter assay
+LET	miR-145	TGFb1	28839463	qPCR,RIP,western blot etc.
+LeXis	miR-199a	CTNNB1	28744406	qPCR,Western blot etc.
+LINC00052	miR-452-5P	EPB41L3	28969024	qPCR,Western blot,RIP etc
+LINC00152	miR-138	HIF-1汐	28077595	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay etc.
+LINC00152	miR-205	P16 	28337379	qPCR,RNAi,Western blot,RIP,ChIP,Luciferase reporter assay,Flow cytometry assay etc.
+LINC00152	miR-103a-3p	FEZF1	28651608	qPCR,Western blot,Luciferase reporter assay etc
+LINC00152	miR-103a-3p	CDC25A	28651608	qPCR,Western blot,Luciferase reporter assay etc
+LINC00152	miR-138	HIF1	29345294	qRT-PCR
+LINC00176	miR-9	Myc	28869604	RNA-seq,Microarray,qRT每PCR
+LINC00176	miR-9	Max	28869604	RNA-seq,Microarray,qRT每PCR
+LINC00176	miR-9	AP-4	28869604	RNA-seq,Microarray,qRT每PCR
+LINC00176	miR-185	Myc	28869604	RNA-seq,Microarray,qRT每PCR
+LINC00176	miR-185	Max	28869604	RNA-seq,Microarray,qRT每PCR
+LINC00176	miR-185	AP-4	28869604	RNA-seq,Microarray,qRT每PCR
+LINC00339	miR-539-5p	MMP-2	29499931	qPCR,Western blot,Luciferase reporter assay etc
+LINC00339	miR-539-5p	MMP-14	29499931	qPCR,Western blot,Luciferase reporter assay etc
+LINC00460	miR-149-5p	IL6	28987345	RNA-seq,qPCR,Western blot,Luciferase reporter assay,in vitro knockdown
+LINC00473	miR-195	IKK汐	29159834	qRT-PCR,Western blot,Luciferase reporter assay
+LINC00511	miR-29b-3p	VEGFA	28984028	qPCR,Luciferase reporter assay,Western blot,RIP
+LINC00657	miR-106a-5p	PTEN	28919047	qPCR,Western blot etc.
+LINC00668	miR-297	VEGFA	28564590	RNAi,Western blot,qPCR,Luciferase reporter assays,RNA pull-down assays
+LINC00673	miR-150-5p	ZEB1	28697764	qPCR,Western blot etc.
+LINC00858	miR-422a	KLK4	28177876	qPCR,RNAi,Western blot,Luciferase reporter assay,RNA pull-down assay,CCK-8 assay etc.
+LINC0086	miR-214	NA	28245169	qPCR,Cell transfection,Luciferase reporter assay,Flow cytometry assay,CCK-8 assay etc.
+LINC01133	miR-422a	NA	28390115	qPCR
+LINC01296	miR-122	MMP-9	29091895	qPCR,Western blot
+lincRNA-ROR	miR-145	p53 	27696511	qPCR,RNAi,Western blot,Luciferase reporter assay,Cell proliferation assay etc.
+ATB	miR-141-3p	TGFB	28115163	qPCR,Cell transfection,Western blot,Luciferase reporter assay,Flow cytometry assay,Cell proliferation assay etc.
+LOC100129148	miR-539-5p	KLF12	28328537	qPCR,RNAi,Western blot,Luciferase reporter assay,CCK-8 assay etc.
+LOC101927497	miR-574-5p	NA	29223541	RNA-seq,qRT-PCR,in vitro knockdown
+LUCAT1	miR-200c	ABCB1	29170124	RNAi,qPCR,Western blotㄛLuciferase reporter assay
+LUCAT1	miR-200c	MDR1	29170124	RNAi,qPCR,Western blotㄛLuciferase reporter assay
+LUCAT1	miR-200c	MRP5	29170124	RNAi,qPCR,Western blotㄛLuciferase reporter assay
+LUCAT1	miR-200c	LRP1	29170124	RNAi,qPCR,Western blotㄛLuciferase reporter assay
+LUCAT1	miR-375	NA	29089067	qPCR,Luciferase reporter assay,in vitro knockdown etc
+M18204.1	miR-148b	NA	28043146	microarray,qPCR etc.
+MALAT1	miR-124	STAT3	29215698	qPCR,Luciferase reporter assay,Western blot,RIP
+MALAT1	miR-101-3p	MCL1	29484127	qPCR,Luciferase reporter assay,Western blot,RIP
+MALAT1	miR-143-3p	ZEB1	28543721	qPCR,Luciferase reporter assay,Western blot
+MALAT1	miR-129-5p	HMGB1	29226325	qPCR,Luciferase reporter assay,Western blot
+MALAT1	miR-129-5p	HMGB1	29130936	qPCR,Luciferase reporter assay,Western blot
+MALAT1	miR-143	E-cadherin	28252165	qPCR,RNAi,Western blot,MTT assay etc.
+MALAT1	miR-202	Gli2	27887846	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay,Cell proliferation assay etc.
+MALAT1	miR-203	TYMS	28187000	qPCR,RNAi,Western blot,Luciferase reporter assay etc.
+MALAT1	miR-204	CXCR4	28059437	qPCR,Western blot,Luciferase reporter assay,Cell proliferation assay etc.
+MALAT1	miR-142-3p	HMGB1	28346809	qPCR,Cell transfection,Western blot,Luciferase reporter assay,Flow cytometry assay,MTT assay etc.
+MALAT1	miR-216a	p21	28034748	qPCR,RNAi,Western blot,Luciferase reporter assay,Flow cytometry assay etc.
+MALAT1	miR-216a	B-MYB	28034748	qPCR,RNAi,Western blot,Luciferase reporter assay,Flow cytometry assay etc.
+MALAT1	miR-216a	RAF1	28034748	qPCR,RNAi,Western blot,Luciferase reporter assay,Flow cytometry assay etc.
+MALAT1	miR-216a	PCNA1 	28034748	qPCR,RNAi,Western blot,Luciferase reporter assay,Flow cytometry assay etc.
+MALAT1	miR-124	JAG1	28260102	qPCR,RNAi,Western blot,Luciferase reporter assay,MTT assay etc.
+MALAT1	miR-140	Slug	27725873	qPCR,Western blot,Cell proliferation assay,Cell migration and invasion assay etc.
+MALAT1	miR-140	ADAM10	27725873	qPCR,Western blot,Cell proliferation assay,Cell migration and invasion assay etc.
+MALAT1	miR-204	ZEB2	28675122	qPCR,Western blot,Luciferase reporter assay etc
+MALAT1	miR-23b-3p	ATG12	29162158	qPCR,Western blot etc.
+MALAT1	miR-509-5p	FOXP1	29254219	qPCR,Luciferase reporter assays,Western blot,RIP etc.
+MALAT1	miR-125b	Bcl-2	29151968	qPCR,Western blot etc.
+MALAT1	miR-125b	MMP-13	29151968	qPCR,Western blot etc.
+MALAT1	miR-124	Capn4	28857668	qPCR,Western blot,Luciferase reporter assay,etc.
+MALAT1	miR-183	ITGB1	27966454	qPCR,Western blot
+MALAT1	miR-1297	HMGB2	28396617	qPCR,Western blot,Luciferase reporter assay
+MALAT1	miR-146b-5p	AKT	28404923	qPCR,luciferase reporter assay
+MALAT1	miR-124	ERK	28550678	qPCR,Western blot,Luciferase Reporter Assays
+MALAT1	miR-124	MAPK	28550678	qPCR,Western blot,Luciferase Reporter Assays
+MALAT1	miR-195	EGFR	28722813	RT-PCR,Western blot,Luciferase reporter assay
+MALAT1	miR-101	Rap1B	28551849	qPCR,Western blot,Luciferase reporter assays etc.
+MALAT1	miR-144-3p	ROCK1	28938647	qPCR,Western blot etc.
+MALAT1	miR-144-3p	ROCK2	28938647	qPCR,Western blot etc.
+MALAT1	miR-217	KRAS	28701723	qPCR,Luciferase report assay etc.
+MALAT1	miR-217	MAPK	28701723	qPCR,Luciferase report assay etc.
+MEG3	miR-21	MRP1	28190319	qPCR,Cell transfection,Western blot,Luciferase reporter assay,Cell proliferation assay etc.
+MEG3	miR-21	MDR1	28190319	qPCR,Cell transfection,Western blot,Luciferase reporter assay,Cell proliferation assay etc.
+MEG3	miR-21	ABCG2	28190319	qPCR,Cell transfection,Western blot,Luciferase reporter assay,Cell proliferation assay etc.
+MEG3	miR-214	NA	28175963	qPCR,Western blot,Luciferase reporter assay,Flow cytometry assay,CCK-8 assay etc.
+MEG3	miR-203	TYMS	28187000	qPCR etc.
+MEG3	miR-770	NA	28345805	qPCR,Cell transfection,Cell proliferation assay etc.
+MEG3	miR-19a	PTEN	28276316	qPCR,Cell transfection,Western blot,Luciferase reporter assay,Cell proliferation assay etc.
+MEG3	miR-664	ADH4	28374914	qPCR,Luciferase reporter assay,Western blot etc.
+MEG3	miR-183	p38	29132136	qPCR,Western blot
+MEG3	miR-183	ERK	29132136	qPCR,Western blot
+MEG3	miR-183	AKT	29132136	qPCR,Western blot
+MEG3	miR-22-5p	TET2	29029424	qPCR
+MEG3	miR-22-3p	TET2	29029424	qPCR
+MEG3	miR-664a	NA	28669734	qPCR
+MEG3	miR-421	E-cadherin	28463794	qPCR,Western blot etc.
+MEG3	miR-214	AIFM2	28534937	qPCR,Western blot,Luciferase report assay etc.
+MEG3	miR-214	PCNA	28534937	qPCR,Western blot,Luciferase report assay etc.
+MEG3	miR-9	E-cadherin and FOXO1	28539329	qPCR,Western blot,Luciferase report assay etc.
+MEG3	miR-93	PCNA	28791407	qPCR,Western blot,etc.
+MIAT	miR-150	ZEB1	28843520	qPCR,luciferase reporter assay etc.
+MIAT	miR-155-5p	DUSP7	29100300	qPCR,Western blot,Luciferase report assay etc.
+MIR100HG	miR-100	GATA6	29035371	qPCR etc.
+MIR100HG	miR-125b	GATA6	29035371	qPCR etc.
+miR210HG	miR-503	N-cadherin	28972855	qPCR,Luciferase reporter assay,Western blot
+miR210HG	miR-503	vimentin	28972855	qPCR,Luciferase reporter assay,Western blot
+MSTO2P	miR-335	misato family member 2	28618927	qPCR etc.
+n340790	miR-1254	NFKB	28559970	qPCR,Western blot etc.
+NBAT1	miR-21	PTEN	29119050	qPCR,Luciferase reporter assay,etc.
+NEAT1	miR-485	STAT3	29219178	qPCR,Luciferase reporter assay,Western blot,RIP
+NEAT1	miR-211	HMGA2	28720546	qPCR,Luciferase reporter assay,Western blot
+NEAT1	miR-193a	MCL1	29205703	qPCR,Luciferase reporter assay,Western blot
+NEAT1	miR-193b-3p	CCND1	29416780	qPCR,Luciferase reporter assay,Western blot,RIP
+NEAT1	miR-101	EZH2	28034643	qPCR,RNAi,Western blot,Luciferase reporter assay,MTT assay etc.
+NEAT1	miR-107	CDK6	27878295	qPCR etc.
+NEAT1	miR-181d-5p	SOX5	28185956	qPCR,RNAi,Western blot,Luciferase reporter assay etc.
+NEAT1	miR-194	ZEB1	29180871	qPCR,luciferase reporter assay,Western blot etc.
+NEAT1	miR-98-5p	MAPK6	29095526	qPCR,Luciferase activity assay,Western blot etc.
+NEAT1	miR-613	NA	28783584	qPCR,Western blot,Luciferase reporter assay,etc.
+NEAT1	miR-377-3p	E2F3	29085511	qPCR,Western blot,etc.
+NEAT1	miR-129	CTBP2	29147064	qPCR,Western blot,RIP,Luciferase reporter assay
+NEAT1	miR-34a	c-Met	28968960	qPCR,Western blot,in vitro knockdown
+NEAT1	miR-101	Fos	29207151	qPCR,Luciferase reporter assay,in vitro knockdown
+NEAT1	miR-218	NA	28946559	qPCR,luciferase assay,etc.
+NEAT1	miR-129-5p	VCP	28526689	qPCR,Western blot etc.
+NEAT1	miR-101-3p	EMP2	29050268	qPCR,Western blot etc.
+NEAT1	miR-181a-5p	HMGB2	28762332	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown
+NNT-AS1	miR-363	CDK6	29179477	qPCR,Western blot,Luciferase reporter assay,RIP,etc.
+BLACAT1	miR-144	N-cadherin	28885863	qPCR,Western blot,Luciferase reporter assay,etc.
+BLACAT1	miR-144	Vimentin	28885863	qPCR,Western blot,Luciferase reporter assay,etc.
+ODRUL	miR-3182	MMP2	28750740	qPCR,microarray,Western blot,Luciferase reporter assay etc.
+OIP5-AS1	miR-448	Bcl-2	29247949	qRT-PCR,Western blot,Luciferase reporter assay,RIP
+p21	miR-9	E-cadherin	28721075	qPCR,Western blot,Luciferase reporter assay etc
+PART1	miR-143	DNMT3A	28619512	qPCR,Western blot,luciferase reporter assay 
+PCAT1	miR-122	WNT1	28753454	qPCR,Luciferase reporter assay,etc.
+PCAT-1	miR-129-5p	HMGB1	28931210	qPCR,Luciferase reporter assay,western blot etc.
+PCAT-1	miR-215	CRKL	28887306	qPCR,luciferase reporter assays etc.
+PCAT-1	miR-215	TP53	28887306	qPCR,luciferase reporter assays etc.
+PCAT-1	miR-34a	cMyc	28989584	qPCR etc.
+PCAT14	miR-372	ATAD2	28415780	qPCR,Western blot etc.
+PCAT7	miR-134-5p	ELF2	28728844	qPCR,Western blot,Luciferase reporter assay
+PCAT7	miR-134-5p	ELF2	28728844	qPCR,Western blot,Luciferase reporter assay,RNAi,etc.
+PDIA3P	miR-185-5p	CCND2	29246288	qPCR,Luciferase reporter assay,RNAi
+PRINS	miR-491-5p	PMAIP1	28149533	qPCR,RNAi,Western blot,Luciferase reporter assay,FISH etc.
+PRNCR1	miR-203	TYMS	28187000	qPCR etc.
+PTENP1	miR-106b	PTEN	28212532	qPCR,Cell transfection,Luciferase reporter assay,Cell migration and invasion assay etc.
+PTENP1	miR-93	PTEN	28212532	qPCR,Cell transfection,Luciferase reporter assay,Cell migration and invasion assay etc.
+PTENP1	miR-193a-3p	PTEN	29296207	Western blots,qPCR,Luciferase reporter assay,RIP etc.
+PVT1	miR-199a-5p	HIF1a	29115513	qPCR,Western blot
+PVT1	miR-200c	EZH2	29286144	qPCR,RIP etc 
+PVT1	miR-195	EZH2	28296507	qPCR,RNAi,Western blot,RIP,ChIP,Dual-luciferase reporter assay, RNA pull-down assay,Cell proliferation assay etc.
+PVT1	miR-424	NA	28276314	qPCR,RNAi,Luciferase reporter assay,Cell proliferation assay etc.
+PVT1	miR-152	CD151	28258379	qPCR,RNAi,Western blot,Luciferase reporter assay etc.
+PVT1	miR-152	FGF2	28258379	qPCR,RNAi,Western blot,Luciferase reporter assay etc.
+PVT1	miR-186	HIF-1a	28122299	qPCR,RNAi,Luciferase reporter assay,MTT assay etc.
+PVT1	miR-195	NA	28848163	qPCR,Western blot etc.
+PVT1	miR-186	Atg7	28351322	qPCR,Western blot
+PVT1	miR-186	Beclin1	28351322	qPCR,Western blot
+PVT1	miR-203	LASP1	28404954	qPCR,Western blot, luciferase reporter assay
+PVT1	miR-186-5p	YAP1	28656879	qPCR,Western blot,RIP
+PVT1	miR-26b	NA	28409552	qPCR
+PVT1	miR-200a	MMP9	28731781	qPCR,Western blot,luciferase assays
+PVT1	miR-200b	MMP9	28731781	qPCR,Western blot,luciferase assays
+PVT1	miR-200b	BMI1	29156724	qPCR,Luciferase assays etc.
+PVT1	miR-200b	ZEB1	29156724	qPCR,Luciferase assays etc.
+PVT1	miR-200b	ZEB2	29156724	qPCR,Luciferase assays etc.
+PVT1	miR-200a	BMI1	29156724	qPCR,Luciferase assays etc.
+PVT1	miR-200a	ZEB1	29156724	qPCR,Luciferase assays etc.
+PVT1	miR-200a	ZEB2	29156724	qPCR,Luciferase assays etc.
+PVT1	miR-200c	BMI1	29156724	qPCR,Luciferase assays etc.
+PVT1	miR-200c	ZEB1	29156724	qPCR,Luciferase assays etc.
+PVT1	miR-200c	ZEB2	29156724	qPCR,Luciferase assays etc.
+PVT1-5	miR-126	SLC7A5	29277611	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown
+RNPC1	miR-181a	CASC2	29288351	qPCR,Western blot,Luciferase reporter assay,in vitro knockdown etc
+lincRNA-ROR	miR-145	Oct4	28843521	qPCR,microarray, etc.
+lincRNA-ROR	miR-145-5p	c-Myc	28443494	qPCR
+lincRNA-ROR	miR-145-5p	Klf4	28443494	qPCR
+lincRNA-ROR	miR-145-5p	Oct4	28443494	qPCR
+lincRNA-ROR	miR-145-5p	Sox2	28443494	qPCR
+lincRNA-ROR	miR-145	FSCN1	28388536	qPCR,Western blot,RIP etc.
+lincRNA-ROR	let-7i-5p	Sox2	28580169	qPCR,RIP etc.
+lincRNA-ROR	let-7b-5p	Sox2	28580169	qPCR,RIP etc.
+lincRNA-ROR	let-7e-5p	Sox2	28580169	qPCR,RIP etc.
+lincRNA-ROR	let-7e-3p	Sox2	28580169	qPCR,RIP etc.
+lincRNA-ROR	let-7b-3p	Sox2	28580169	qPCR,RIP etc.
+lincRNA-ROR	let-7c-3p	Sox2	28580169	qPCR,RIP etc.
+lincRNA-ROR	let-7i-5p	Nanog	28580169	qPCR,RIP etc.
+lincRNA-ROR	let-7b-5p	Nanog	28580169	qPCR,RIP etc.
+lincRNA-ROR	let-7e-5p	Nanog	28580169	qPCR,RIP etc.
+lincRNA-ROR	let-7e-3p	Nanog	28580169	qPCR,RIP etc.
+lincRNA-ROR	let-7b-3p	Nanog	28580169	qPCR,RIP etc.
+lincRNA-ROR	let-7c-3p	Nanog	28580169	qPCR,RIP etc.
+lincRNA-ROR	miR-145	Nanog	28869448	qPCR
+lincRNA-ROR	miR-145	ZEB2	28680141	qPCR,Western blot,Luciferase report assay etc.
+lincRNA-ROR	miR-145	TGFB	29280051	qPCR,in vitro knockdown wtc
+RP11-436H11.5	miR-335-5p	BCL-W	29070041	qPCR,Luciferase reporter assay,Western blot etc.
+RPPH1	miR-122	DAM10	29200969	qPCR etc.
+RPPH1	miR-122	PKM2	29200969	qPCR etc.
+RPPH1	miR-122	NOD2	29200969	qPCR etc.
+RPPH1	miR-122	IGF1R	29200969	qPCR etc.
+SNHG1	miR-145	p70S6k	29416759	qPCR,Western blot
+SNHG1	miR-145	E2F3	29416759	qPCR,Western blot
+SNHG1	miR-326	NOB1	29115574	qPCR,Luciferase reporter assay,Western blot
+SNHG1	miR-101-3p	SOX9	28147312	qPCR,RNAi,Western blot,Luciferase reporter assay,Cell proliferation assay etc.
+SNHG1	miR-199a-3p	SNHG1	28400279	qPCR,Western blot,Luciferase Reporter Assays
+SNHG1	miR-195	p53	28501778	qPCR etc.
+SNHG1	miR-338	p53	28501778	qPCR etc.
+SNHG12	miR-195	SOX5	29499929	Microarray,qPCR,Western blot,in vitro knockdown,RIP
+SNHG12	miR-199a	MLK3	28073380	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay,Flow cytometry assay,Cell proliferation assay etc.
+SNHG12	miR-320	CRKL	29207106	RT-qPCR,Western blot,Luciferase reporter assay,in vitro knockdown
+SNHG12	miR-195-5p	Notch2	29229388	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+SNHG14	miR-203	N-WASP	29312804	qPCR,Luciferase reporter assay,Western blot,RIP
+SNHG15	miR-153	VEGFA	29048682	qPCR,Western blot,RIP etc.
+SNHG15	miR-153	Cdc4	29048682	qPCR,Western blot,RIP etc.
+SNHG15	miR-211-3p	NA	29217194	RT-PC,Western blot,Luciferase reporter assay,in vitro knockdown
+SNHG15	miR-141	NA	28720111	qPCR,Western blot,Luciferase reporter assay etc.
+SNHG16	miR-140-5p	ZEB1	29416674	qPCR,Luciferase reporter assay,Western blot,RIP
+SNHG16	miR-216-5p	ZEB1	29126969	qRT-PCR,Western blot,Luciferase reporter assay,in vitro knockdown,RIP
+SNHG16	miR-98	E2F5	28232182	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay etc.
+SNHG3	miR-182-5p	SNHG3	28731158	qPCR,Luciferase reporter assay,RIP,Western blot
+SNHG5	miR-32	AGO2	27871067	qPCR,Western blot,Luciferase reporter assay etc.
+SNHG5	miR-205-5p	ABCC2	28861326	qPCR,Western blot etc.
+SNHG6	miR-101-3p	ZEB1	28683446	qPCR,Western blot etc.
+SNHG6	miR-26a	TAK1	27530352	microarray,qPCR,RNAi etc.
+SNHG6	miR-26b	TAK1	27530352	microarray,qPCR,RNAi etc.
+SNHG7	miR-193b	FAIM2	29131440	qRT-PCR,Western blot,Luciferase reporter assay
+SOX21-AS1	miR-145	MYO6	29217166	qPCR,Luciferase reporter assay,RIP
+SOX2OT	miR-194-5p	TDGF-1	29132362	qPCR,Western blot,in vitro knockdown,Luciferase reporter assay etc.
+SOX2OT	miR-122	TDGF-1	29132362	qPCR,Western blot,in vitro knockdown,Luciferase reporter assay etc.
+SPRY4-IT1	miR-101-3p	EZH2	27998761	qPCR,RNAi,Western blot,Luciferase reporter assay,Cell cycle assay,Cell apoptosis assay etc.
+STARD13	miR-340	FAS	27844181	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay etc.
+STARD13	miR-448	FAS	27844181	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay etc.
+STARD13	miR-374	FAS	27844181	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay etc.
+STARD13	miR-203	FAS	27844181	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay etc.
+STARD13	let-7	FAS	27844181	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay etc.
+STARD13	miR-216b	FAS	27844181	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay etc.
+STARD13	miR-316	FAS	27844181	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay etc.
+STARD13	miR-23	FAS	27844181	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay etc.
+STARD13	miR-153	FAS	27844181	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay etc.
+TALNEC2	miR-21	STAT3	28423669	qPCR,Western blot etc.
+TALNEC2	miR-191	STAT3	28423669	qPCR,Western blot etc.
+TINCR	miR-137	NA	28546230	qPCR,Western blot etc.
+TINCR	miR-133a	NA	28546230	qPCR,Western blot etc.
+TINCR	miR-375	PDK1	28744139	qPCR,Western blot,Luciferase report assay etc.
+TP73-AS1	miR-200a	TFAM	28639399	qPCR,Luciferase reporter assay,Western blot
+TP73-AS1	miR-200a	HMGB1	28403886	qPCR,Western blot,Luciferase reporter assay
+TP73-AS1	miR-200a	RAGE	28403886	qPCR,Western blot,Luciferase reporter assay
+TTN-AS1	miR-133b	FSCN1	29101304	Microarray,qRT-PCR,Western blot,Luciferase reporter assayin vitro knockdown,RNAi,RIP
+TUBB2A	miR-596	CLDN4	28819095	qPCR,Luciferase reporter assay,Western blot,RNA-seq
+TUG1	miR-145-5p	NA	27983921	qPCR,RNAi,Luciferase reporter assay,Cell proliferation assay etc.
+TUG1	miR-186	CPEB2	28302487	qPCR,Western blot,Luciferase reporter assay,Flow cytometry assay,MTT assay etc.
+TUG1	miR-300	TGb1	28178615	qPCR,RNAi,Western blot,Luciferase reporter assay,Cell proliferation assay etc.
+TUG1	miR-335-5p	ROCK1	28205334	qPCR,RNAi,Western blot,Luciferase reporter assay etc.
+TUG1	miR-145	Sirt3	29371936	qPCR,Western blot,Luciferase reporter assay etc
+TUG1	miR-382	EZH2	28813705	qPCR,Western blot,Luciferase reporter assay,RIP
+TUG1	miR-142	ZEB2	28503069	qPCR,Western blot,MIT
+TUG1	miR-138-5p	SIRT1	29029428	qPCR,Western blot etc.
+TUG1	miR-153	ZEB2	28411362	qPCR,Luciferase Reporter Assays,RIP
+TUG1	miR-381	SOX4	28927144	qPCR,Western blot,Luciferase reporter assay,etc.
+TUG1	miR-145	ZEB1	28645161	qPCR,Western blot etc.
+TUSC7	miR-211-3p	CDK6	28214867	qPCR,Cell transfection,Western blot,Luciferase reporter assay,CCK-8 assay etc.
+TUSC7	miR-23b	NA	28653877	qPCR
+UCA1	miR-184	SF1	29125238	qPCR,Luciferase reporter assay,Western blot
+UCA1	miR-16	MDR1	27854515	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay etc.
+UCA1	miR-182	p53	28137422	qPCR,RNAi,Western blot,Luciferase reporter assay,MTT assay etc.
+UCA1	miR-203	Snail2	28271214	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay,Cell proliferation assay etc.
+UCA1	miR-135a	NA	28315290	qPCR,RNAi,Northern blot,Luciferase reporter assay,Flow cytometry assay etc.
+UCA1	miR-143	HMGB1	29113184	qPCR,Luciferase reporter assay,Western blot etc.
+UCA1	miR-195	ARL2	29130995	qPCR,Western blot,RIP
+UCA1	miR-184	Bcl-2 	28209917	qPCR,Western blot,RIP,Luciferase reporter assay
+UCA1	miR-495	p21	28466784	qPCR,Western blot,Luciferase reporter assay,RNAi
+UCA1	miR-122	NA	28548636	RT-PCR,Luciferase reporter assay,in vitro knockdown
+UCA1	miR-144	EGFR	28762326	luciferase reporter assay,qPCR,western blot etc.
+UCC	miR-143	KRAS	28492554	qPCR,RNAi,RIP
+UCC	miR-143	IGF1R	28492554	qPCR,RNAi,RIP
+UCC	miR-143	Bcl-2	28492554	qPCR,RNAi,RIP
+UCC	miR-143	HK2	28492554	qPCR,RNAi,RIP
+UICLM	miR-215	ZEB2	29187907	qPCR,Western blotting,RIP etc.
+USP16	miR-21	PTEN	29179215	qPCR,Western blot
+USP16	miR-590-5p	PTEN	29179215	qPCR,Western blot
+XIST	miR-137	FOXC1	28287613	qPCR,RNAi,Western blot,RIP,ChIP,Cell proliferation assay,Cell migration assay etc.
+XIST	miR-497	MACC1	27911852	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay,MTT assay etc.
+XIST	miR-139-5p	PDK1	28231734	qPCR,RNAi,Western blot,RIP,Luciferase reporter assay etc.
+XIST	miR-449a	Bcl-2	28248928	qPCR,RNAi,Western blot,Cell migration and invasion assay,CCK-8 assay etc.
+XIST	miR-133a	EGFR	28295543	qPCR,Luciferase reporter assay,Cell proliferation assay,MTT assay etc.
+XIST	miR-101	EZH2	29100288	qPCR,Western blot,Luciferase reporter assay etc
+XIST	miR-140	iASPP	29371940	qPCR,Western blot,Luciferase reporter assay etc.
+XIST	miR-124	iASPP	29371940	qPCR,Western blot,Luciferase reporter assay etc.
+XIST	miR-429	NA	29187887	qPCR,Luciferase reporter assay etc.
+XIST	miR-21-5p	PDCD4	29048648	qPCR,Western blotting,Luciferase reporter assay etc.
+XIST	miR-497	MACC1	29212249	qPCR,Western blot,RIP,Luciferase reporter assay etc.
+XIST	miR-23a	RKIP	29212233	qPCR,Luciferase reporter assays,Western blot etc.
+XIST	miR-29c	NA	28985197	qPCR,Luciferase reporter assay,Western blot etc.
+XIST	miR-186-5p	NA	28448993	qPCR,Western blot,RNAi,Luciferase reporter assay
+XIST	miR-124	AR	28869948	qPCR,Western blot,Luciferase reporter assay
+XIST	miR-181a	PTEN	28388883	qPCR,Western blot etc.
+XIST	miR-132-3p	MAPK1	28730777	qPCR,Western blot etc.
+XIST	let-7i	BAG-1	28961027	qPCR,Western blot,RNAi,Luciferase reporter assays etc
+XIST	miR-320b	RAP2B	28409547	qPCR,Western blot,Luciferase Reporter Assays
+XLOC_000983	miR-148b	NA	28043146	microarray,qPCR etc.
+XLOC_005104	miR-148b	NA	28043146	microarray,qPCR etc.
+XLOC_006324	miR-148b	NA	28043146	microarray,qPCR etc.
+XLOC_008466	miR-874	MMP2	28501870	qPCR,Western blot,RIP,Luciferase reporter assay etc
+ZFAS1	miR-150-5p	Sp1	28099946	qPCR,Cell transfection,Western blot,Luciferase reporter assay,MTT assay etc.
+ZFAS1	miR-486	NA	29262629	qPCR,Luciferase reporter assays,RIP etc.
+ZFAS1	miR-150	SP1	28938617	qPCR etc.
+ZFAS1	miR-150	KLF2	28938617	qPCR etc.
+ZFAS1	miR-150	NKD2	28938617	qPCR etc.
+ZFAS1	miR-200b	BMI1	28744396	qPCR,Western blot,RIP etc.
+ZFAS1	miR-200b	BMI1	28744396	qPCR,Western blot,RIP etc.
+ZFAS1	miR-200c	ZEB2	28744396	qPCR,Western blot,RIP etc.
+ZFAS1	miR-200c	ZEB2	28744396	qPCR,Western blot,RIP etc.
+ZFAS1	miR-150	NA	28672980	qPCR etc.
+AC130710	miR-129-5p	NA	24969565	qPCR etc.
+CASC2	miR-21	NA	27222255	qPCR, Cell transfection, Dual-luciferase reporter assay, Cell proliferation assay etc.
+CASC2	miR-21	NA	25446261	qPCR, Luciferase reporter assay etc.
+CCAT1	let-7	Myc	27830017	qPCR, Western blot
+CRNDE	miR-384	NF-kB	27822419	qPCR, RNAi, Western blot, Dual-luciferase reporter assay etc.
+CRNDE	miR-384	p-AKT	27822419	qPCR, RNAi, Western blot, Dual-luciferase reporter assay etc.
+CTBP	miR-21-5p	LAMP2	27113935	qPCR etc.
+CTBP	miR-16-2	LAMP2	27113935	qPCR etc.
+DLEU2	miR-16-1	CCND1	20060366	qPCR, Northern blot etc.
+DLEU2	miR-16-1	CCND2	20060366	qPCR, Northern blot etc.
+DLEU2	miR-16-1	CCND3	20060366	qPCR, Northern blot etc.
+DLEU2	miR-16-1	CCNE1	20060366	qPCR, Northern blot etc.
+DLEU2	miR-16-1	CDK4	20060366	qPCR, Northern blot etc.
+DLEU2	miR-16-1	CDK6	20060366	qPCR, Northern blot etc.
+DLEU2	miR-16-1	CHK1	20060366	qPCR, Northern blot etc.
+DLEU2	miR-16-1	MCM5	20060366	qPCR, Northern blot etc.
+DLEU2	miR-15a	CCND1	20060366	qPCR, Northern blot etc.
+DLEU2	miR-15a	CCND2	20060366	qPCR, Northern blot etc.
+DLEU2	miR-15a	CCND3	20060366	qPCR, Northern blot etc.
+DLEU2	miR-15a	CCNE1	20060366	qPCR, Northern blot etc.
+DLEU2	miR-15a	CDK4	20060366	qPCR, Northern blot etc.
+DLEU2	miR-15a	CDK6	20060366	qPCR, Northern blot etc.
+DLEU2	miR-15a	CHK1	20060366	qPCR, Northern blot etc.
+DLEU2	miR-15a	MCM5	20060366	qPCR, Northern blot etc.
+DLEU2	miR-16-1	Bcl-2	19347735	qPCR etc.
+DLEU2	miR-15a	Bcl-2	19347735	qPCR etc.
+DLEU2	miR-16-1	CCND1	19347735	qPCR etc.
+DLEU2	miR-15a	CCND1	19347735	qPCR etc.
+DLEU2	miR-15a	cyclin E1	19591824	qPCR, Western blot, Northern blot, Luciferase reporter assay etc.
+DLEU2	miR-16-1	cyclin E1	19591824	qPCR, Western blot, Northern blot, Luciferase reporter assay etc.
+DLEU2	miR-15a	cyclin E1	19591824	qPCR, Western blot, Northern blot, Luciferase reporter assay etc.
+DLEU2	miR-16-1	cyclin E1	19591824	qPCR, Western blot, Northern blot, Luciferase reporter assay etc.
+DLEU2	miR-15a	cyclin E1	19591824	qPCR, Western blot, Northern blot, Luciferase reporter assay etc.
+DLEU2	miR-16-1	cyclin E1	19591824	qPCR, Western blot, Northern blot, Luciferase reporter assay etc.
+DLEU2	miR-15a	cyclin D1	19591824	qPCR, Western blot, Northern blot, Luciferase reporter assay etc.
+DLEU2	miR-16-1	cyclin D1	19591824	qPCR, Western blot, Northern blot, Luciferase reporter assay etc.
+DLEU2	miR-15a	cyclin D1	19591824	qPCR, Western blot, Northern blot, Luciferase reporter assay etc.
+DLEU2	miR-16-1	cyclin D1	19591824	qPCR, Western blot, Northern blot, Luciferase reporter assay etc.
+DLEU2	miR-15a	cyclin D1	19591824	qPCR, Western blot, Northern blot, Luciferase reporter assay etc.
+DLEU2	miR-16-1	cyclin D1	19591824	qPCR, Western blot, Northern blot, Luciferase reporter assay etc.
+DNM3OS	miR-199a	PTEN	20400975	qPCR etc.
+DNM3OS	miR-214	PTEN	20400975	qPCR etc.
+ENST00000515084	miR-370	NA	24879036	qPCR, Luciferase reporter assay, Cell viability assay, Transient transfection etc.
+FER1L4	miR-106a-5p	FER1L4	26224446	qPCR, RNAi, Western blot, Luciferase reporter assay, Flow cytometry assay, Cell proliferation assay etc.
+GAS5	miR-21	PTEN	26404135	qPCR, RNAi, Western blot, RIP, Luciferase reporter assay etc.
+GAS5	miR-21	NA	23933812	qPCR, RNAi, Western blot, ISH, MTT assay etc.
+H19	miR-141	caspase-3	27186302	qPCR, Western blot, MTT assay etc.
+H19	miR-141	BCl-2	27186302	qPCR, Western blot, MTT assay etc.
+H19	miR-675	VEGF	27186302	qPCR, Western blot, MTT assay etc.
+H19	miR-675	IGF2	27186302	qPCR, Western blot, MTT assay etc.
+H19	miR-29a	VASH2	27543358	qPCR, Cell transfection, Western blot etc.
+H19	miR-675	NA	27994496	qPCR, Cell transfection, Cell proliferation assay, Cell migration and invasion assay etc.
+H19	miR-107	c-Myc	26722426	qPCR, RNAi, ChIP, Luciferase reporter assay, Flow cytometry assay etc.
+H19	miR-675	CDH13	24466011	microarray, qPCR, RNAi, Western blot, Luciferase reporter assay etc.
+HOST2	let-7b	STAT3	25292198	qPCR, Western blot etc.
+HOTAIR	miR-125a-5p	caspase2	26962687	qPCR, RNAi, Western blot, Flow cytometry assay etc.
+HOTAIR	miR-125a-5p	caspase2	26962687	qPCR, RNAi, Western blot, Flow cytometry assay etc.
+HOTAIR	miR-125a-5p	caspase2	26962687	qPCR, RNAi, Western blot, Flow cytometry assay etc.
+HOTAIR	miR-125a-5p	caspase2	26962687	qPCR, RNAi, Western blot, Flow cytometry assay etc.
+HOTAIR	miR-125a-5p	caspase2	26962687	qPCR, RNAi, Western blot, Flow cytometry assay etc.
+AF147447	miR-34c	MUC2	27835575	microarray, qPCR, Western blot, Luciferase reporter assay etc.
+AKR7L	miR-23b	DRD5	25765901	microarray, qPCR, RNAi etc.
+AKR7L	miR-23b	GDF5	25765901	microarray, qPCR, RNAi etc.
+ANRIL	miR-99a	PRC2	24810364	qPCR, RNAi, Western blot, RIP etc.
+ANRIL	miR-449a	PRC2	24810364	qPCR, RNAi, Western blot, RIP etc.
+ATB	miR-200a	TGFB	27267902	qPCR, RNAi, Western blot, Luciferase reporter assay, Cell proliferation assay etc.
+ATB	miR-200c	ZEB1	25871474	microarray, qPCR, Western blot, Luciferase reporter assay, MTT assay etc.
+ATB	miR-200c	ZNF-217	25871474	microarray, qPCR, Western blot, Luciferase reporter assay, MTT assay etc.
+ATB	miR-200a	ZEB1	25986864	qPCR etc.
+ATB	miR-200b	ZEB1	25986864	qPCR etc.
+ATB	miR-200c	ZEB1	25986864	qPCR etc.
+ATB	miR-200a	ZEB1	24768205	microarray, qPCR etc.
+ATB	miR-200a	ZEB2	24768205	microarray, qPCR etc.
+ATB	miR-200b	ZEB1	24768205	microarray, qPCR etc.
+ATB	miR-200b	ZEB2	24768205	microarray, qPCR etc.
+ATB	miR-200c	ZEB1	24768205	microarray, qPCR etc.
+ATB	miR-200c	ZEB2	24768205	microarray, qPCR etc.
+BANCR	miR-9	NFkB1	26248136	qPCR, RNAi, Western blot, MTT assay etc.
+BC032469	miR-1207-5p	hTERT	26549025	microarray, qPCR, Western blot, Luciferase reporter assay etc.
+BC040587	miR-23b	DRD5	25765901	microarray, qPCR, RNAi etc.
+BC040587	miR-23b	GDF5	25765901	microarray, qPCR, RNAi etc.
+CASC2	miR-18a	PIAS3	27198161	qPCR, Flow cytometry assay, Cell proliferation assay etc.
+CCAT1	miR-155	c-Myc	26923190	qPCR, Western blot, Luciferase reporter assay, Flow cytometry assay etc.
+CCAT1	miR-490	hnRNPA1	26825578	qPCR, Western blot, Luciferase reporter assay etc.
+CCAT1	miR-218-5p	Bmi1	25569100	qPCR, Western blot, Luciferase reporter assay etc.
+CRNDE	miR-384	PIWIL4	27049681	qPCR, Western blot, Luciferase reporter assay etc.
+CRNDE	miR-186	XIAP	26231038	qPCR, Cell proliferation assay, Cell migration and invasion assay etc.
+CRNDE	miR-186	PAK7	26231038	qPCR, Cell proliferation assay, Cell migration and invasion assay etc.
+DQ192290	miR-23b	DRD5	25765901	microarray, qPCR, RNAi etc.
+DQ192290	miR-23b	GDF5	25765901	microarray, qPCR, RNAi etc.
+EWSAT1	miR-326	cyclin D1	27816050	qPCR, Cell transfection, Western blot, Luciferase reporter assay, RNA pull-down assay etc.
+EWSAT1	miR-330-5p	cyclin D1	27816050	qPCR, Cell transfection, Western blot, Luciferase reporter assay, RNA pull-down assay etc.
+FER1L4	miR-106a-5p	PTEN	26306906	qPCR, RNAi, Western blot etc.
+FER1L4	miR-106a-5p	RB1	25124853	microarray, qPCR, RNAi etc.
+FTX	miR-374a	MCM2	27065331	RIP etc.
+GAS5	miR-21	PTEN	27034004	microarray, qPCR etc.
+GAS5	miR-23a	MT2A	27827524	qPCR, Western blot, Luciferase reporter assay etc.
+GAS5	miR-222	BMF	26370254	qPCR, Lentiviral infection, Western blot, Luciferase reporter assay, Flow cytometry assay, Cell proliferation assay etc.
+GAS5	miR-103	PTEN	26511107	qPCR, RNAi, Western blot, Luciferase reporter assay, Flow cytometry assay etc.
+GIHCG	miR-200b	EZH2	27380494	qPCR, RNAi, Western blot, Northern blot, RIP, ChIP, RNA pull-down assay, Cell proliferation assay etc.
+GIHCG	miR-200a	EZH2	27380494	qPCR, RNAi, Western blot, Northern blot, RIP, ChIP, RNA pull-down assay, Cell proliferation assay etc.
+GIHCG	miR-429	EZH2	27380494	qPCR, RNAi, Western blot, Northern blot, RIP, ChIP, RNA pull-down assay, Cell proliferation assay etc.
+GIHCG	miR-200b	DNMT1	27380494	qPCR, RNAi, Western blot, Northern blot, RIP, ChIP, RNA pull-down assay, Cell proliferation assay etc.
+GIHCG	miR-200a	DNMT1	27380494	qPCR, RNAi, Western blot, Northern blot, RIP, ChIP, RNA pull-down assay, Cell proliferation assay etc.
+GIHCG	miR-429	DNMT1	27380494	qPCR, RNAi, Western blot, Northern blot, RIP, ChIP, RNA pull-down assay, Cell proliferation assay etc.
+H19	miR-630	EZH2	27040767	qPCR, Western blot, RIP etc.
+H19	miR-675	RUNX1	26931432	qPCR, Western blot etc.
+H19	miR-342-3p	FOXM1	27716361	qPCR, RNAi, Western blot, Luciferase reporter assay etc.
+H19	miR-194-5p	AKT2	26803515	qPCR, RNAi, Western blot, Cell proliferation assay etc.
+H19	miR-148a-3p	DNMT1	26872375	qPCR, Western blot, Luciferase reporter assay etc.
+H19	miR-140	iASPP(apoptosis-stimulating protein of p53)	27693036	qPCR, Western blot, Luciferase reporter assay, MTT assay etc.
+H19	miR-17-5p	YES1	27093644	qPCR, Luciferase reporter assay etc.
+H19	miR-372	CXCR4	27809873	qPCR, Western blot, RIP, Luciferase reporter assay
+H19	miR-373	CXCR4	27809873	qPCR, Western blot, RIP, Luciferase reporter assay
+H19	miR-675	EGR1	26376677	qPCR, RNAi, Western blot, ChIP, Dual-luciferase reporter assay, Cell proliferation assay etc.
+H19	miR-675	c-Cbl	26353930	qPCR, RNAi, Flow cytometry assay, Cell proliferation assay etc.
+H19	miR-675	Cbl-b	26353930	qPCR, RNAi, Flow cytometry assay, Cell proliferation assay etc.
+H19	miR-675	RUNX1	24388988	qPCR, RNAi, Western blot etc.
+H19	miR-675	ISM1	24810858	qPCR, RNAi, Western blot, Luciferase reporter assay etc.
+H19	let-7	HMGA2	24920070	qPCR, RNAi, Western blot etc.
+H19	miR-200a	hnRNP	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-200b	hnRNP	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-200c	hnRNP	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-141	hnRNP	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-429	hnRNP	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-200a	ZEB1	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-200b	ZEB1	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-200c	ZEB1	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-141	ZEB1	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-429	ZEB1	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-200a	ZEB2	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-200b	ZEB2	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-200c	ZEB2	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-141	ZEB2	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-429	ZEB2	23222811	qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.
+H19	miR-675	RB	19926638	qPCR, Northern blot, ISH etc.
+H19	miR-675	RB	19926638	qPCR, Northern blot, ISH etc.
+HNF1A-AS1	miR-30b	Bcl-2	27084450	qPCR, Western blot etc.
+HOTAIR	miR-326	Phox2a	27186394	qPCR, Western blot, Flow cytometry assay etc.
+HOTAIR	miR-214	PIK3R3	26826873	qPCR, RNAi, Western blot, Cell proliferation assay etc.
+HOTAIR	miR-217	PIK3R3	26826873	qPCR, RNAi, Western blot, Cell proliferation assay etc.
+HOTAIR	miR-148a	HOTAIR modulated human leucocyte antigen-G (HLA-G)	27574106	qPCR, RNAi, Western blot etc.
+HOTAIR	miR-1	CCND1	27816685	qPCR, Western blot, RIP, Luciferase reporter assay, Cell proliferation assay etc.
+HOTAIR	miR-126	VEGFA, PIK3R2	27900563	qPCR, RNAi, Western blot, Luciferase reporter assay, Flow cytometry assay etc.
+HOTAIR	miR-148b-3p	HOTAIR gene sequence	27446363	qPCR, RNAi, Luciferase reporter assay, Flow cytometry assay etc.
+H19	miR-21	EGFR	29719612	qPCR,RNAi etc
+H19	miR-21	KLF4	29719612	qPCR,RNAi etc
+H19	miR-21	DNMT1	29719612	qPCR,RNAi etc
+H19	miR-21	AGO4	29719612	qPCR,RNAi etc
+CTNNAP1	miR-141	CTNNA1	27487124	qPCR, Cell transfection, Luciferase reporter assay, Flow cytometry assay, Cell proliferation assay etc.
+ENST00000518554	miR-15a	PPP3CA	27600337	microarray, qPCR etc.
+ENST00000520186	miR-21	PPP3CA	27600337	microarray, qPCR etc.
+ENST00000547415	miR-29b	PPP3CA	27600337	microarray, qPCR etc.
+ENST00000559981	miR-29c	PPP3CA	27600337	microarray, qPCR etc.
+FGFR3-AS	miR-374a	P21	29463348	RT-qPCR, Western blot, in vitro knockdown
+FGFR3-AS	miR-374a	CYCLIN D1	29463348	RT-qPCR, Western blot, in vitro knockdown
+FTX	miR-545	RIG-I	26992218	qPCR, RNAi, Western blot, Cell proliferation assay, MTT assay etc.
+GAS5	miR-103	AKT	27743383	qPCR, RNAi, Western blot, Dual-luciferase reporter assay, Cell proliferation assay, ISH etc.
+GAS5	miR-103	mTOR	27743383	qPCR, RNAi, Western blot, Dual-luciferase reporter assay, Cell proliferation assay, ISH etc.
+GAS5	miR-103	S6K1	27743383	qPCR, RNAi, Western blot, Dual-luciferase reporter assay, Cell proliferation assay, ISH etc.
+GCASPC	miR-17-3p	pyruvate carboxylase coding gene	27450454	qPCR, RIP, RNA pull-down assay, Mass Spetcrometry etc.
+H19	miR-675	p53 activation	26198047	qPCR, RNAi, Western blot, Luciferase reporter assay etc.
+H19	miR-138	ZEB1	26068968	qPCR, Western blot, RIP, Luciferase reporter assay etc.
+H19	miR-138	ZEB1	26068968	qPCR, Western blot, RIP, Luciferase reporter assay etc.
+H19	miR-200a	ZEB2	26068968	qPCR, Western blot, RIP, Luciferase reporter assay etc.
+H19	miR-200a	ZEB2	26068968	qPCR, Western blot, RIP, Luciferase reporter assay etc.
+H19	miR-675	AKT	24939300	qPCR, RNAi, Western blot etc.
+H19	miR-675	GSK-3汕	24939300	qPCR, RNAi, Western blot etc.
+H19	miR-675	Cdc25A	24939300	qPCR, RNAi, Western blot etc.
+H19	miR-675	TGFBI	24988946	qPCR, Western blot etc.
+CRNDE	miR-384	PIWIL4	27058823	qPCR, RNAi, Western blot, RIP, Luciferase reporter assay, Cell proliferation assay etc.
+MIR155HG	miR-155	BIC	15738415	qPCR, Northern blot etc.
+NEAT1	miR-98-5p	CTR1	27270317	qPCR, Western blot, Dual-luciferase reporter assay etc.
+NEAT1	miR-214	汕catenin	28000845	qPCR, RNAi, Western blot, RNA pull-down assay, Cell migration and invasion assay etc.
+NEAT1	miR-204	ZEB1	27020592	qPCR, Western blot, Luciferase reporter assay etc.
+NEAT1	miR-548	FUS	27147820	qPCR, RNAi etc.
+NEAT1	miR-129-5p	WNT4	27556296	qPCR, RNAi, ChIP etc.
+NEAT1	let-7e	NRAS	27556696	qPCR, Cell transfection, Western blot, RIP, Dual-luciferase reporter assay, Cell migration and invasion assay etc.
+NEAT1	miR-449b-5p	c-Met	26242266	qPCR, RNAi, Western blot, Luciferase reporter assay, Cell proliferation assay etc.
+NEAT1	miR-107	CDK6	26822763	qPCR, Western blot, Luciferase reporter assay etc.
+NEAT1	miR-377-3p	E2F3	27351135	qPCR, RNAi, Western blot, RNA pull-down assay etc.
+NEAT1	miR-124-3p	HuR	27075229	qPCR, Western blot, Luciferase reporter assay etc.
+NEAT1	miR-506-3p	NA	27888106	qPCR, RNAi, Dual-luciferase reporter assay, Cell proliferation assay etc.
+NEAT1	miR-449a	NOTCH1	25818739	qPCR, RNAi etc.
+NeD125	miR-125b-1	Bcl-2	26480000	qPCR, Cell transfection, Western blot, ChIP, RNA pull-down assay etc.
+NLC1-C	miR-320a	ARPP-19	26539909	microarray, qPCR, RNAi, Western blot, Northern blot, RIP, RNA pull-down assay etc.
+NLC1-C	miR-320a	ERRR	26539909	microarray, qPCR, RNAi, Western blot, Northern blot, RIP, RNA pull-down assay etc.
+NLC1-C	miR-383	Cyclin D1	26539909	microarray, qPCR, RNAi, Western blot, Northern blot, RIP, RNA pull-down assay etc.
+NLC1-C	miR-383	IRF1	26539909	microarray, qPCR, RNAi, Western blot, Northern blot, RIP, RNA pull-down assay etc.
+NR_024015	miR-526-3p	NA	27583835	qPCR, Cell proliferation assay etc.
+NUTF2P3-001	miR-3923	KRAS	26755660	microarray, qPCR, RNAi, Western blot, Luciferase reporter assay, MTT assay etc.
+p21	miR-146b-5p	B-catenin	27166258	qPCR, RNAi, Western blot, Luciferase reporter assay etc.
+PCA3	miR-1261	PRKD3	27743381	qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay, Cell proliferation assay etc.
+PCAT-1	miR-34a	cMyc	25425964	qPCR, RNAi, Luciferase reporter assay etc.
+PlncRNA-1	miR-34c	AR	26808578	qPCR, Western blot, Northern blot, RIP, ChIP, Flow cytometry assay etc.
+PlncRNA-1	miR-297	AR	26808578	qPCR, Western blot, Northern blot, RIP, ChIP, Flow cytometry assay etc.
+PTCSC3	miR-574-5p	NA	23599737	qPCR etc.
+PTENP1	miR-17	PTEN	25617127	qPCR, Western blot etc.
+PTENP1	miR-17	PHLPP	25617127	qPCR, Western blot etc.
+PTENP1	miR-17	ULK1	25617127	qPCR, Western blot etc.
+PTENP1	miR-17	ATG7	25617127	qPCR, Western blot etc.
+PTENP1	miR-17	p62	25617127	qPCR, Western blot etc.
+PTENP1	miR-19b	PTEN	25617127	qPCR, Western blot etc.
+PTENP1	miR-19b	PHLPP	25617127	qPCR, Western blot etc.
+PTENP1	miR-19b	ULK1	25617127	qPCR, Western blot etc.
+PTENP1	miR-19b	ATG7	25617127	qPCR, Western blot etc.
+PTENP1	miR-19b	p62	25617127	qPCR, Western blot etc.
+PTENP1	miR-20a	PTEN	25617127	qPCR, Western blot etc.
+PTENP1	miR-20a	PHLPP	25617127	qPCR, Western blot etc.
+PTENP1	miR-20a	ULK1	25617127	qPCR, Western blot etc.
+PTENP1	miR-20a	ATG7	25617127	qPCR, Western blot etc.
+PTENP1	miR-20a	p62	25617127	qPCR, Western blot etc.
+PVT1	miR-1207-5p	TGFB	26990997	microarray, qPCR etc.
+PVT1	miR-1207-5p	CTNNB1	26990997	microarray, qPCR etc.
+PVT1	miR-1207-5p	MMP2	26990997	microarray, qPCR etc.
+PVT1	miR-1207-5p	Slug	26990997	microarray, qPCR etc.
+PVT1	miR-1207-5p	Snail	26990997	microarray, qPCR etc.
+PVT1	miR-1207-5p	Vimentin	26990997	microarray, qPCR etc.
+PVT1	miR-200b	EZH2	27272214	qPCR, RNAi, Western blot, RIP, ChIP, RNA pull-down assay etc.
+PVT1	miR-146a	EGFR	27794184	qPCR, MSP-PCR, RNAi etc.
+RMRP	miR-206	Cyclin D2	27192121	qPCR, RNAi, Flow cytometry assay etc.
+RMRP	miR-206	KRAS	27906963	qPCR, Cell transfection, Western blot etc.
+lincRNA-ROR	miR-34a	Bcl-2	27449099	qPCR, RNAi, Western blot, ChIP, Flow cytometry assay etc.
+lincRNA-ROR	miR-145	RKO, Caco2, HCT8, SW480 and SW620	27071407	qPCR etc.
+lincRNA-ROR	miR-145	Nanog	26636540	qPCR, RNAi, Western blot, Northern blot, Flow cytometry assay, FISH etc.
+lincRNA-ROR	miR-205	Oct4	24922071	qPCR, RIP, in vivo knockdown etc.
+lincRNA-ROR	miR-205	Nanog	24922071	qPCR, RIP, in vivo knockdown etc.
+lincRNA-ROR	miR-205	Sox2	24922071	qPCR, RIP, in vivo knockdown etc.
+lincRNA-ROR	miR-145	TNBC	25253741	microarray, qPCR, Western blot etc.
+lincRNA-ROR	miR-145	Oct4	24589415	qPCR, RNAi, Flow cytometry assay, FISH etc.
+lincRNA-ROR	miR-145	Nanog	24589415	qPCR, RNAi, Flow cytometry assay, FISH etc.
+lincRNA-ROR	miR-145	Sox2	24589415	qPCR, RNAi, Flow cytometry assay, FISH etc.
+RP11-838N2.4	miR-10a	EphA8	27270310	qPCR, Western blot, RIP etc.
+RSU1P2	let-7a	N-myc	27487126	qPCR, Western blot, Flow cytometry assay, Cell migration and invasion assay etc.
+SIRT1-AS	miR-29c	SIRT1	26324025	qPCR, RNAi, Western blot, Northern blot etc.
+SKP2	miR-3163	Skp2	26482610	qPCR, Western blot etc.
+SNHG1	miR-195	NA	27932778	qPCR, Cell transfection, Luciferase reporter assay, Cell proliferation assay, ISH etc.
+SOX2OT	miR-211	SOX2	26862518	qPCR etc.
+treRNA	miR-190a	SNAIL1	26608035	qPCR, RNAi, Western blot, Dual-luciferase reporter assay etc.
+treRNA	miR-190a	Vimentin	26608035	qPCR, RNAi, Western blot, Dual-luciferase reporter assay etc.
+TUG1	miR-9	MTHFD2	28053623	qPCR, Western blot, Luciferase reporter assay, Flow cytometry assay, MTT assay etc.
+TUG1	miR-9-5p	POU2F1	27658774	qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.
+TUG1	miR-144	c-Met	27261864	qPCR, RNAi, Western blot etc.
+TUG1	miR-299	VEGF	27345398	qPCR, RNAi etc.
+TUG1	miR-26a	PTEN	27363339	qPCR, RNAi, Western blot, Luciferase reporter assay etc.
+TUG1	miR-34a-5p	VEGFA	27362796	qPCR, RNAi, Western blot etc.
+TUG1	miR-145	ZEB2	26318860	qPCR, RNAi, Western blot, RIP, Luciferase reporter assay etc.
+TUG1	miR-144	HSF2	26078353	qPCR, Lentiviral infection, Western blot, RIP, ChIP etc.
+TUSC7	miR-23b	NA	27766072	qPCR, RIP, Luciferase reporter assay, RNA pull-down assay, Cell proliferation assay etc.
+TUSC7	miR-10a	EphA4	27002617	qPCR, RNAi, Western blot, Cell proliferation assay etc.
+TUSC7	miR-23b	p53	25765901	microarray, qPCR, RNAi etc.
+UCA1	miR-196a-5p	p27Kip1	27591936	qPCR, RNAi, Western blot, Luciferase reporter assay etc.
+UCA1	miR-18a	HIF1汐	27629141	qPCR, Western blot, Dual-luciferase reporter assay, Flow cytometry assay etc.
+UCA1	miR-204	sox4	27667646	qPCR, RNAi, Western blot, Luciferase reporter assay, Cell proliferation assay etc.
+UCA1	miR-27b	BCL-2	27694794	qPCR, Western blot, Flow cytometry assay etc.
+UCA1	miR-507	FOXM1	27389544	qPCR, RNAi, Western blot, RIP, Cell proliferation assay etc.
+UCA1	miR-204-5p	CREB1	27046651	qPCR, Western blot, RIP, Luciferase reporter assay etc.
+UCA1	miR-145	FSCN1	26544536	qPCR, Western blot, Luciferase reporter assay etc.
+UCA1	miR-16	GLS2	26373319	qPCR, Western blot, Luciferase reporter assay etc.
+UCA1	miR-143	RISC	26439035	microarray, qPCR, RNAi, ISH etc.
+UCA1	miR-216b	FGFR1	25760077	qPCR, RNAi, Western blot, RIP etc.
+UCA1	miR-193a-3p	ERBB4	26655272	qPCR, Western blot, RIP, Luciferase reporter assay etc.
+UCA1	miR-143	mTOR	24890811	qPCR, RNAi, Western blot etc.
+UCA1	miR-1	Ago2	25015192	qPCR, RNAi, Western blot etc.
+ucoo2kmd.1	miR-211-3p	CD44	26974151	qPCR, RNAi, Western blot, Luciferase reporter assay etc.
+UFC1	miR-34a	HuR	25449213	microarray, qPCR, in vitro knockdown etc.
+Unigene56159	miR-140-5p	Slug	27597739	qPCR, RNAi, Western blot, Cell migration and invasion assay, MTT assay etc.
+XIST	miR-92b	Smad7	27100897	qPCR etc.
+XIST	miR-101	EZH2	27620004	qPCR, RNAi, Western blot, Luciferase reporter assay, Cell proliferation assay etc.
+XIST	miR-34a-5p	E2F3	27461945	qPCR, Western blot, Luciferase reporter assay etc.
+XIST	miR-152	RISC	25578780	qPCR, RIP, Luciferase reporter assay etc.
+ZFAS1	miR-150	ZEB1	26069248	qPCR, RIP, Luciferase reporter assay etc.
+ZFAS1	miR-150	MMP14	26069248	qPCR, RIP, Luciferase reporter assay etc.
+ZFAS1	miR-150	MMP16	26069248	qPCR, RIP, Luciferase reporter assay etc.
+ZNFX1-AS1	miR-9	ZNFX1	27574442	qPCR, RNAi, Western blot, Cell proliferation assay, Cell apoptosis assay etc.
+HOTAIR	miR-1	FOXC1	27895772	qPCR, RNAi, ChIP, Luciferase reporter assay etc.
+HOTAIR	miR-7	HuR	27941336	qPCR, RNAi, Western blot, RIP, Luciferase reporter assay, Cell migration and invasion assay etc.
+HOTAIR	miR-326	SP1	27460077	qPCR, RNAi, Western blot, Luciferase reporter assay, MTT assay etc.
+HOTAIR	miR-373	Rab22a	27484896	qPCR, RNAi, Cell migration assay etc.
+HOTAIR	miR-663b	IGF2	27895308	qPCR, RNAi, Western blot, Luciferase reporter assay etc.
+HOTAIR	miR-148a	GPER	25928008	qPCR, Luciferase reporter assay etc.
+HOTAIR	miR-193a	c-KIT	25979172	qPCR, RNAi, Western blot, RIP etc.
+HOTAIR	miR-218	EZH2	26024833	qPCR, Western blot etc.
+HOTAIR	miR-1	MAPK1	26117268	qPCR, Western blot etc.
+HOTAIR	miR-214-3p	MAPK1	26117268	qPCR, Western blot etc.
+HOTAIR	miR-330-5p	MAPK1	26117268	qPCR, Western blot etc.
+HOTAIR	miR-205	cyclin J	26469956	qPCR, Western blot, Northern blot etc.
+HOTAIR	miR-34a	C-Met	26136075	qPCR, Western blot, RIP etc.
+HOTAIR	miR-34a	Snail	26136075	qPCR, Western blot, RIP etc.
+HOTAIR	miR-152	HLA-G	26187665	qPCR, RNAi, Luciferase reporter assay, ELISA etc.
+HOTAIR	miR-326	FGF1	26183397	qPCR, Cell transfection, Western blot, Luciferase reporter assay, Flow cytometry assay, Cell proliferation assay etc.
+HOTAIR	miR-21	NA	25099764	qPCR, Western blot etc.
+HOTAIR	miR-141	AGO2	24616104	qPCR, Western blot, RIP etc.
+HOTAIR	miR-7	HoxD10	25070049	qPCR, Western blot, CHIP-PCR, Dual-luciferase reporter assay etc.
+HOTAIR	miR-130a	c-Myc	24953832	qPCR, Northern blot, RIP, in vitro knockdown etc.
+HOTAIR	miR-331-3p	HER2	24775712	qPCR, RNAi, Western blot, Luciferase reporter assay etc.
+HOTAIR	miR-34a	HDAC1	23936419	microarray, qPCR etc.
+HOTAIR	miR-34a	PIAS3	23936419	microarray, qPCR etc.
+HOTAIR	miR-34a	TPM3	23936419	microarray, qPCR etc.
+HOTAIR	miR-34a	TCF7L2	23936419	microarray, qPCR etc.
+HOTAIR	miR-34a	ARNT2	23936419	microarray, qPCR etc.
+HOTAIR	miR-34a	CREBBP	23936419	microarray, qPCR etc.
+HOTAIR	miR-34a	JUP	23936419	microarray, qPCR etc.
+HOTAIR	miR-34a	AKT2	23936419	microarray, qPCR etc.
+HOTAIR	miR-196a	HOXB8	22258453	qPCR etc.
+HOTAIRM1	miR-196b	HOXA	26436590	qPCR etc.
+HOTAIRM1	miR-196b	HOXA	26436590	qPCR etc.
+HOTTIP	miR-192	AGO2	26710269	qPCR, RNAi, Dual-luciferase reporter assay, Cell proliferation assay etc.
+HOTTIP	miR-204	AGO2	26710269	qPCR, RNAi, Dual-luciferase reporter assay, Cell proliferation assay etc.
+HOTTIP	miR-125b	HOXA	25424744	qPCR, Luciferase reporter assay etc.
+HOXA11-AS	miR-1297	EZH2	27651312	RNA-seq, microarray, qPCR, Cell transfection, Western blot, RIP, ChIP, Luciferase reporter assay etc.
+HULC	miR-200a-3p	ZEB1	27285757	qPCR, RNAi, Western blot etc.
+HULC	miR-203	ADAM9	26179263	qPCR, Cell transfection, Western blot, Luciferase reporter assay, Flow cytometry assay, Cell proliferation assay etc.
+HULC	miR-372	IL-6	27809873	qPCR, Western blot, RIP, Luciferase reporter assay
+HULC	miR-372	IL-6	27809873	qPCR, Western blot, RIP, Luciferase reporter assay
+HULC	miR-373	CXCR4	27809873	qPCR, Western blot, RIP, Luciferase reporter assay
+HULC	miR-373	CXCR4	27809873	qPCR, Western blot, RIP, Luciferase reporter assay
+HULC	miR-107	E2F1	26540633	qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay etc.
+HULC	miR-107	SPHK1	26540633	qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay etc.
+HULC	miR-9	PPARA	25592151	qPCR etc.
+HULC	miR-372	CREB	20423907	qPCR, Western blot, Luciferase reporter assay etc.
+KLKP1	miR-125b	KLKP1	27556357	microarray, qPCR etc.
+LINC00152	miR-128	NTRK3	27351280	qPCR, RNAi, Western blot, Dual-luciferase reporter assay etc.
+LINC00152	miR-485-3p	NTRK3	27351280	qPCR, RNAi, Western blot, Dual-luciferase reporter assay etc.
+LINC00152	miR-193a-3p	ERBB4	27633443	qPCR, Western blot, Luciferase reporter assay, Cell proliferation assay etc.
+LINC00152	miR-802	TCF4	25910082	qPCR, RNAi, Western blot etc.
+LINC00161	miR-645	IFIT2	27609068	microarray, qPCR, RNAi, RIP, Dual-luciferase reporter assay etc.
+LINC00261	miR-802	TCF4	25910082	qPCR, RNAi, Western blot etc.
+LINC00673	miR-1231	PTPN11	27213290	qPCR, Flow cytometry assay etc.
+LINC00969	miR-125b	KLKP1	27556357	microarray, qPCR etc.
+LINC01021	miR-486	p53	26183718	RNA-seq, qPCR, Western blot, Luciferase reporter assay, pSILAC etc.
+LINC01138	miR-125b	KLKP1	27556357	microarray, qPCR etc.
+linc-223	miR-125-5p	interferon regulatory factor 4 (IRF4)	27517498	qPCR, Luciferase reporter assay, in vitro knockdown
+lnc34a	miR-34a	p53	27077950	qPCR, Western blot, RIP etc.
+lncARSR	miR-34	AXL	27117758	qPCR, RNAi, Western blot, Northern blot, ChIP, Luciferase reporter assay, ISH etc.
+lncARSR	miR-34	c-MET	27117758	qPCR, RNAi, Western blot, Northern blot, ChIP, Luciferase reporter assay, ISH etc.
+lncARSR	miR-449	AXL	27117758	qPCR, RNAi, Western blot, Northern blot, ChIP, Luciferase reporter assay, ISH etc.
+lncARSR	miR-449	c-MET	27117758	qPCR, RNAi, Western blot, Northern blot, ChIP, Luciferase reporter assay, ISH etc.
+LOC150622	miR-23b	TUSC7	25765901	microarray, qPCR, RNAi etc.
+LOC553103	miR-BART6-3p	CDH2	27584792	microarray, qPCR, RNAi, Luciferase reporter assay etc.
+LOC553103	miR-BART6-3p	CDH2	27584792	microarray, qPCR, RNAi, Luciferase reporter assay etc.
+LOC553103	miR-BART6-3p	SNAL1	27584792	microarray, qPCR, RNAi, Luciferase reporter assay etc.
+LOC553103	miR-BART6-3p	SNAL1	27584792	microarray, qPCR, RNAi, Luciferase reporter assay etc.
+LOC553103	miR-BART6-3p	MMP2	27584792	microarray, qPCR, RNAi, Luciferase reporter assay etc.
+LOC553103	miR-BART6-3p	MMP2	27584792	microarray, qPCR, RNAi, Luciferase reporter assay etc.
+LOC553103	miR-BART6-3p	MMP9	27584792	microarray, qPCR, RNAi, Luciferase reporter assay etc.
+LOC553103	miR-BART6-3p	MMP9	27584792	microarray, qPCR, RNAi, Luciferase reporter assay etc.
+M59227	miR-23b	TUSC7	25765901	microarray, qPCR, RNAi etc.
+MALAT1	miR-448	KDM5B	26917489	qPCR, RNAi, Western blot etc.
+MALAT1	miR-26b	p62	27524242	qPCR, RNAi, Western blot, Dual-luciferase reporter assay etc.
+MALAT1	miR-1	cell division cycle 42 (cdc42)	26926567	qPCR, Western blot, Luciferase reporter assay, Immunofluorescent assay etc.
+MALAT1	miR-375	DNMT1	27658300	qPCR, Cell transfection, Western blot, Dual-luciferase reporter assay, Flow cytometry assay etc.
+MALAT1	miR-200c	TGFB	27693631	qPCR, RNAi, Western blot, RIP, Luciferase reporter assay, Cell proliferation assay etc.
+MALAT1	miR-206	ANXA2	27191262	qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.
+MALAT1	miR-206	KRAS	27191262	qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.
+LINC00152	miR-376c-3p	Ki-67	28078002	qPCR, Flow cytometry assay, CCK-8 assay etc.
+LINC00152	miR-376c-3p	Bcl-2	28078002	qPCR, Flow cytometry assay, CCK-8 assay etc.
+LINC00152	miR-376c-3p	Fas	28078002	qPCR, Flow cytometry assay, CCK-8 assay etc.
+LINC00312	miR-197-3p	TIMP2	27631965	qPCR, Western blot etc.
+LINC00312	miR-197-3p	MMP2	27631965	qPCR, Western blot etc.
+LINC00312	miR-197-3p	MMP9	27631965	qPCR, Western blot etc.
+LOC554202	miR-31	RhoA	22289355	qPCR etc.
+LOC554202	miR-31	WAVE3	22289355	qPCR etc.
+MALAT1	miR-124	E2F1	26918449	qPCR, RNAi, Western blot, Dual-luciferase reporter assay etc.
+MALAT1	miR-122	IGF1R	27486823	qPCR, RNAi, Western blot, Cell proliferation assay etc.
+MALAT1	miR-363-3p	MCL-1	27420766	qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.
+MALAT1	miR-155	FBXW7	27904771	qPCR, RNAi, Western blot, Luciferase reporter assay etc.
+MALAT1	miR-204	SLUG	27294002	qPCR, Western blot, RIP, Luciferase reporter assay etc.
+MALAT1	miR-376a	TGFA	27458156	qPCR, Cell transfection, Western blot, Luciferase reporter assay, MTT assay etc.
+MALAT1	miR-506	iASPP	28031721	qPCR, RNAi, Western blot, Luciferase reporter assay, MTT assay etc.
+MALAT1	miR-22	MMP14	27564100	qPCR, RNAi, Western blot, Luciferase reporter assay, Cell migration and invasion assay etc.
+MALAT1	miR-25	RBM24	27584791	microarray, qPCR, Luciferase reporter assay, Cell migration and invasion assay etc.
+MALAT1	miR-1	K-ras	26275461	qPCR, Western blot, Luciferase reporter assay etc.
+MALAT1	miR-1	Slug	26676637	qPCR, Western blot, RIP, Luciferase reporter assay etc.
+MALAT1	miR-9	ER汐	25592968	qPCR, Cell proliferation assay etc.
+MALAT1	miR-200c	ZEB2	26461224	qPCR etc.
+MALAT1	miR-140	CCAAT	26619802	qPCR, Western blot, RIP, ChIP, Luciferase reporter assay etc.
+MALAT1	miR-145	Ago2	26311052	qPCR, RNAi, RIP, Flow cytometry assay, RNA pull-down assay etc.
+MALAT1	miR-124	RBG2	26242259	qPCR, RNAi, Western blot, Luciferase reporter assay, Flow cytometry assay etc.
+MALAT1	miR-1	slug	26482776	qPCR, Western blot, RIP, Luciferase reporter assay etc.
+MALAT1	miR-205	c-Fos	25600645	qPCR, Luciferase reporter assay etc.
+MALAT1	miR-205	EZH2	25600645	qPCR, Luciferase reporter assay etc.
+MALAT1	miR-101	B-MYB	25538231	qPCR, Luciferase reporter assay etc.
+MALAT1	miR-217	B-MYB	25538231	qPCR, Luciferase reporter assay etc.
+MALAT1	miR-125b	SIRT7	24512851	qPCR, Western blot, ChIP, Luciferase reporter assay, Cell proliferation assay etc.
+MEG3	miR-1297	PTEN	27158395	qPCR, RNAi, Western blot, Luciferase reporter assay, ISH, MTT assay etc.
+MEG3	miR-29a	DNMT1	26321746	qPCR, MTT assay etc.
+MEG3	miR-185	DNMT1	26321746	qPCR, MTT assay etc.
+MEG3	miR-21	p53	26574780	qPCR, RNAi, Western blot etc.
+MEG3	miR-141	E2F3	26233544	qPCR, Western blot etc.
+MEG3	miR-181	Bcl-2	26253106	qPCR, Luciferase reporter assay, RNA pull-down assay etc.
+MEG3	miR-148a	DNA methyltransferase 1	24515776	qPCR, RNAi, Western blot etc.
+MEG3	miR-26a	DNMT3B	24343426	microarray, MSP-PCR, RNAi, Western blot etc.
+MEG3	miR-29	DNMT1	21625215	microarray, qPCR etc.
+MIF	miR-586	c-Myc	27317567	qPCR, Luciferase reporter assay etc.
+MIF	miR-586	c-Myc	27317567	qPCR, Luciferase reporter assay etc.
+MIF	miR-586	c-Myc	27317567	qPCR, Luciferase reporter assay etc.
+MIF	miR-586	c-Myc	27317567	qPCR, Luciferase reporter assay etc.
+MIF	miR-586	c-Myc	27317567	qPCR, Luciferase reporter assay etc.
+MINCR	miR-26a-5p	EZH2	27345740	qPCR, RIP, Dual-luciferase reporter assay etc.
+MIR155HG	miR-155	BIC	15738415	qPCR, Northern blot etc.
+MIR31HG	miR-193b	CCND1	26549028	qPCR, RNAi, Western blot, RIP, Dual-luciferase reporter assay, ISH etc.
+MIR31HG	miR-193b	NT5E	26549028	qPCR, RNAi, Western blot, RIP, Dual-luciferase reporter assay, ISH etc.
+MIR31HG	miR-193b	PLAU	26549028	qPCR, RNAi, Western blot, RIP, Dual-luciferase reporter assay, ISH etc.
+MIR31HG	miR-193b	STARD7	26549028	qPCR, RNAi, Western blot, RIP, Dual-luciferase reporter assay, ISH etc.
+MIR31HG	miR-193b	STMN1	26549028	qPCR, RNAi, Western blot, RIP, Dual-luciferase reporter assay, ISH etc.
+MIR31HG	miR-193b	YWHAZ	26549028	qPCR, RNAi, Western blot, RIP, Dual-luciferase reporter assay, ISH etc.
+NEAT1	miR-98-5p	CTR1	27270317	qPCR, Western blot, Dual-luciferase reporter assay etc.
+NEAT1	miR-214	NA	28000845	qPCR, RNAi, Western blot, RNA pull-down assay, Cell migration and invasion assay etc.
+NEAT1	miR-204	ZEB1	27020592	qPCR, Western blot, Luciferase reporter assay etc.
+DSCR8	miR-485-5p	FZD7	30154476	qPCR, Western blot, Luciferase reporter assay etc.
+RP11-523G9.3	miR-19b-3p	RUNX2	30161026	qPCR
+CTB-180A7.6	miR-19b-3p	RUNX2	30161026	qPCR
+NEAT1	miR-506	ZEB1	30154460	qPCR, Western blot, Luciferase reporter assay etc.
+NEAT1	miR-506	Vimentin	30154460	qPCR, Western blot, Luciferase reporter assay etc.
+NEAT1	miR-506	Snail2	30154460	qPCR, Western blot, Luciferase reporter assay etc.
+RP11-79H23.3	miR-107	PTEN	30149689	qPCR, Western blot, Luciferase reporter assay etc.
+LINC01133	miR-106a-3p	APC	30134915	qPCR, Western blot, Luciferase reporter assay etc.
+NONHSAG007671	miR-199a-3p	Hopx	30125571	qPCR, Western blot, Luciferase reporter assay etc.
+KRAL	miR-141	Keap1	30119680	qPCR, Western blot, Luciferase reporter assay etc.
+SNHG16	miR-15a	TLR4	30119242	Rescue assays
+SNHG16	miR-16	TLR4	30119242	rescue assays
+MEG3	miR-141	PDCD4	30119236	qPCR, Western blot, Luciferase reporter assay etc.
+SBF2-AS1	miR-149-5p	TGFBR1	30115383	qPCR, Western blot, Luciferase reporter assay etc.
+SNHG5	miR-26a	ROCK1	30114643	qPCR, Western blot, Luciferase reporter assay etc.
+HOXA11-AS	miR-454-3p	STAT3	30099826	Rescue assays
+AP000695.4	miR-101-3p	ZEB1	30098599	qPCR, Western blot, Luciferase reporter assay etc.
+NEAT1	miR-9-5p	PTEN?	30096244	qPCR
+NEAT1	miR-9-5p	POU2F1	30096244	qPCR
+MALAT1	miR-140-5p	HDAC4	30094957	qPCR, Western blot, Luciferase reporter assay etc.
+HOXA-AS2	miR-520c-3p	POU2F1	30081707	qPCR,Luciferase reporter assay etc.
+PVT1	miR-128	VEGFC	30076714	qRT-PCR;luciferase reporter assays;Chromatin immunoprecipitation assays
+FAL1	miR-637	AKT1	30062828	qPCR, Western blot
+lnc015192	miR-34a	Adam12	30042416	qPCR
+lncARSR	miR-200a	ZEB1	30034936	qPCR, Western blot, Luciferase reporter assay etc.
+lncARSR	miR-200b	ZEB2	30034936	qPCR, Western blot, Luciferase reporter assay etc.
+lncARSR	miR-200c	ZEBc	30034936	qPCR, Western blot, Luciferase reporter assay etc.
+lncARSR	miR-200a	ZEB2	30034936	qPCR, Western blot, Luciferase reporter assay etc.
+lncARSR	miR-200b	ZEB1	30034936	qPCR, Western blot, Luciferase reporter assay etc.
+lncARSR	miR-200c	ZEBc	30034936	qPCR, Western blot, Luciferase reporter assay etc.
+linc00152	miR-125b-1	MCL-1	30030896	qRT-PCR
+NRAL	miR-340-5p	Nrf2	30030687	qRT-PCR
+MT1DP	miR-365	NRrf2	30027041	qPCR, Western blot, Luciferase reporter assay etc.
+NONMMUT065582	miR-138	YAP1	30025992	qPCR, Western blot, Luciferase reporter assay etc.
+H19	miR-874	AQPq	30021355	qPCR, Western blot, Luciferase reporter assay etc.
+TUG1	miR-29b	aSMA	30017186	qRT-PCR
+TUG1	miR-29b	COL1a1	30017186	qRT-PCR
+TUG1	miR-29b	Mmp2	30017186	qRT-PCR
+TUG1	miR-29b	Mmp9	30017186	qRT-PCR
+TUG1	miR-29b	Mmp10	30017186	qRT-PCR
+TUG1	miR-29b	Timp1	30017186	qRT-PCR
+XIST	miR-211	CXCR4	30005876	qRT-PCR
+Linc01287	miR-298	STAT3	30001751	qPCR, Western blot, Luciferase reporter assay etc.
+BDNF-AS	miR-130b-5p	PRDM5	29995562	qPCR, Western blot, Luciferase reporter assay etc.
+H19	miR-107	NF1	30280776	qPCR, Western blot, Luciferase reporter assay etc.
+TP73-AS1	miR-194-5p	SDAD1	30279010	qPCR, Western blot, Luciferase reporter assay etc.
+ADAMTS9-AS2	miR-182-5p	FOXF2	30268751	qPCR, Western blot, RIP etc.
+SNHG6	miR-26a-5p	E2F7	30257360	qPCR, Western blot, Luciferase reporter assay etc.
+SNHG6	miR-760	FOXC1	30254467	qPCR, Western blot etc.
+SNHG14	miR-340	NA	30254102	qPCR etc.
+SNHG15	miR-200a-3p	YAP1	30237435	qPCR, Western blot, Luciferase reporter assay etc.
+XLOC_006390	miR-331-3p	NRP2	30207103	qPCR, Western blot etc.
+XLOC_006390	miR-338-3p	PKM2	30207103	qPCR, Western blot etc.
+AFAP1-AS1	miR-146b-5p	EGFR	30206930	qPCR, Western blot, Luciferase reporter assay etc.
+HOTAIR	miR-206	CCND1	30205383	qPCR, Western blot, Luciferase reporter assay etc.
+HOTAIR	miR-206	CCND2	30205383	qPCR, Western blot, Luciferase reporter assay etc.
+D63785	miR-422a	MEF2D	30195778	qPCR, Western blot etc.
+OIP5-AS1	miR-143-3p	ITGA6	30188591	qPCR, Western blot, Luciferase reporter assay etc.
+HNF1A-AS1	miR-661	CDK4	30185552	qPCR etc.
+LOC728196	miR-513c	TCF7	30179681	qPCR, Western blot, Luciferase reporter assay etc.
+TINCR	miR-31-5p	C/EBP-a	30172905	qPCR, Western blot, Luciferase reporter assay etc.
+PRNCR1	miR-448	HEY2	30257372	qPCR, Western blot, Luciferase reporter assay etc.
+FAL1	miR-637	NUPR1	30267804	qPCR, Western blot etc.
+OGFRP1	miR-124-3p	LYPD3	30274775	qPCR, Western blot etc.
